@@ -1,5 +1,3 @@
-#/usr/bin/python2.7
-
 import sys
 
 #read input file and store info into a list
@@ -9,7 +7,7 @@ def read_input_file():
     line1 = line1.rstrip().split()
     go = line1[0]
     gene_list = []
-    print "Working on GO: %s" %(go)
+    print ("Working on GO: %s" %(go))
     for line in finp:
         if line.startswith("superterm_name"):
             pass
@@ -20,24 +18,25 @@ def read_input_file():
                 pass
             else:
                 gene_list.append(gene)
-    print "There are %s unique genes associated with this term" %(len(gene_list))
+    print ("There are %s unique genes associated with this term" %(len(gene_list)))
     return gene_list, go
 
 #modified version of function to read input file with the new gene-ontology assessment
 def read_go_genes():
-  finp = open(sys.argv[1]).readlines()
-  print "Working on file: %s" %(sys.argv[1])
+  finp = open('../example_files_variant_pathway_annotation/gene_ontology/immune_system_process_all_genes_including_child_nodes.txt').readlines()
+  #finp = open(sys.argv[1]).readlines()
+  #print ("Working on file: %s" %(sys.argv[1]))
   gene_list = []
   for line in finp:
     line = line.rstrip().split("\t")
-    gene = line[-1].upper()
+    gene = line[10].upper()
     if gene in gene_list:
       pass
     else:
       gene_list.append(gene)
-  print "There are %s unique genes associated with this term" %(len(gene_list))
+  print ("There are %s unique genes associated with this term" %(len(gene_list)))
   return gene_list
-  
+
 #read list of my genes
 def read_my_genes():
     finp = open("3_merged_annotation_IGAP_IRIS_OTHER.txt").readlines()
@@ -71,7 +70,7 @@ def read_my_genes():
                         else:
                             my_genes.append(gene)
             locus_genes[(locus, pos)] = genes
-    print "\nIn my list there are %s non-duplicated genes: %s" %(len(my_genes), my_genes)
+    print ("\nIn my list there are %s non-duplicated genes: %s" %(len(my_genes), my_genes))
     return my_genes, locus_genes
 
 #merge information from annotation and my genes
@@ -82,15 +81,28 @@ def merge(my_genes, gene_list, go):
             annotated.append(g)
         else:
             pass
-    print "\nOut of %s genes in your list, %s were annotated to %s: %s" %(len(my_genes), len(annotated), go, annotated)
+    print ("\nOut of %s genes in your list, %s were annotated to %s: %s" %(len(my_genes), len(annotated), go.split('/')[-1], annotated))
     return annotated
 
 #write output
 def write_output(annotated, go):
     init = 13
-    out_name = str(init) + "_assigned_function_GENE-ONTOLOGY_" + go + ".txt"
+    tmp_name = go.split('/')[-1].replace('.txt', '')
+    if 'immune' in tmp_name:
+        final_name = 'immune'
+    elif 'angiogenesis' in tmp_name:
+        final_name = 'angiogenesis'
+    elif 'endocytosis' in tmp_name:
+        final_name = 'endocytosis'
+    elif 'beta' in tmp_name:
+        final_name = 'beta-amyloid'
+    elif 'cholesterol' in tmp_name:
+        final_name = 'cholesterol'
+    elif 'protein' in tmp_name:
+        final_name = 'protein-lipid'
+    out_name = str(init) + "_assigned_function_GENE-ONTOLOGY_" + final_name + ".txt"
     out = open(out_name, "a")
-    out.write(go)
+    out.write(final_name)
     out.write("\t")
     for gene in annotated:
         out.write(gene)
@@ -103,7 +115,8 @@ def write_output(annotated, go):
 
 #gene_list, go = read_input_file()
 gene_list = read_go_genes()
-go = sys.argv[2]
+go = sys.argv[1]
+#go = '../example_files_variant_pathway_annotation/gene_ontology/immune_system_process_all_genes_including_child_nodes.txt'
 my_genes, locus_genes = read_my_genes()
 annotated = merge(my_genes, gene_list, go)
-print write_output(annotated, go)
+print (write_output(annotated, go))

@@ -1,0 +1,31 @@
+GO:0002493	lipid antigen assembly with MHC class Ib protein complex	biological_process
+GO:0010901	regulation of very-low-density lipoprotein particle remodeling	biological_process
+GO:0010902	positive regulation of very-low-density lipoprotein particle remodeling	biological_process
+GO:0010903	negative regulation of very-low-density lipoprotein particle remodeling	biological_process
+GO:0032987	protein-lipid complex disassembly	biological_process
+GO:0034368	protein-lipid complex remodeling	biological_process
+GO:0034369	plasma lipoprotein particle remodeling	biological_process
+GO:0034370	triglyceride-rich lipoprotein particle remodeling	biological_process
+GO:0034371	chylomicron remodeling	biological_process
+GO:0034372	very-low-density lipoprotein particle remodeling	biological_process
+GO:0034373	intermediate-density lipoprotein particle remodeling	biological_process
+GO:0034374	low-density lipoprotein particle remodeling	biological_process
+GO:0034375	high-density lipoprotein particle remodeling	biological_process
+GO:0034376	conversion of discoidal high-density lipoprotein particle to spherical high-density lipoprotein particle	biological_process
+GO:0034377	plasma lipoprotein particle assembly	biological_process
+GO:0034378	chylomicron assembly	biological_process
+GO:0034379	very-low-density lipoprotein particle assembly	biological_process
+GO:0034380	high-density lipoprotein particle assembly	biological_process
+GO:0060988	lipid tube assembly	biological_process
+GO:0060989	lipid tube assembly involved in organelle fusion	biological_process
+GO:0060990	lipid tube assembly involved in organelle fission	biological_process
+GO:0065005	protein-lipid complex assembly	biological_process
+GO:0071827	plasma lipoprotein particle organization	biological_process
+GO:0071828	apolipoprotein E recycling	biological_process
+GO:0071829	plasma lipoprotein particle disassembly	biological_process
+GO:0090107	regulation of high-density lipoprotein particle assembly	biological_process
+GO:0090108	positive regulation of high-density lipoprotein particle assembly	biological_process
+GO:0090121	low-density lipoprotein particle disassembly involved in cholesterol transport	biological_process
+GO:0090318	regulation of chylomicron remodeling	biological_process
+GO:0090319	positive regulation of chylomicron remodeling	biological_process
+GO:0090495	low-density lipoprotein particle disassembly	biological_process

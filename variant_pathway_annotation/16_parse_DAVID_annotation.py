@@ -1,9 +1,9 @@
-#!/usr/bin/python2.7
+import sys
 
 #read DAVID annotation file and save content into a dictionary, without parsing the file
 def read_david_file():
     david = {}
-    finp = open("15_david_annotation.txt").readlines()
+    finp = open(sys.argv[1]).readlines()
     i = 0
     while i < len(finp):
         line = finp[i]
@@ -42,7 +42,7 @@ def assign_name(david):
         for term in david[cluster].keys():
             term = term.replace("~", " ")
             term = term.lower()
-            print term, ";",
+            print (term, ";",)
             flag = 0
             for group, value in groups_keywords.items():
                 for x in value:
@@ -67,11 +67,11 @@ def assign_name(david):
                     ex_equo.append(group)
                     annotation[cluster].append(group)
         if len(ex_equo) > 1:
-            print "\n%s is probably associated with %s and %s" %(cluster, most_rep_lab, ex_equo)
+            print ("\n%s is probably associated with %s and %s" %(cluster, most_rep_lab, ex_equo))
         else:
-            print "\n%s is probably associated with %s" %(cluster, most_rep_lab)
-        print "\tEntire dictionary: %s" %(assign_cluster)
-        print "\tKeywords mapped: %s\n" %(keywords_mapped)
+            print ("\n%s is probably associated with %s" %(cluster, most_rep_lab))
+        print ("\tEntire dictionary: %s" %(assign_cluster))
+        print ("\tKeywords mapped: %s\n" %(keywords_mapped))
     return annotation
 
 #now that I have cluster --> groups, I can translate this into genes (per cluster) --> groups
@@ -95,7 +95,7 @@ def groups_to_genes(david, annotation):
                         gene_annot[x].append(gene)
 
     for group in gene_annot.keys():
-        print group, ":", ",".join(gene_annot[group])
+        print (group, ":", ",".join(gene_annot[group]))
     return gene_annot
 
 #write output
@@ -118,4 +118,4 @@ def write_output(gene_annot):
 david = read_david_file()
 annotation = assign_name(david)
 gene_annot = groups_to_genes(david, annotation)
-print write_output(gene_annot)
+print (write_output(gene_annot))

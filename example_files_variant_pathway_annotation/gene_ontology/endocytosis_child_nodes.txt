@@ -1,0 +1,133 @@
+GO:0001845	phagolysosome assembly	biological_process
+GO:0002031	G-protein coupled receptor internalization	biological_process
+GO:0002090	regulation of receptor internalization	biological_process
+GO:0002091	negative regulation of receptor internalization	biological_process
+GO:0002092	positive regulation of receptor internalization	biological_process
+GO:0002433	immune response-regulating cell surface receptor signaling pathway involved in phagocytosis	biological_process
+GO:0016191	synaptic vesicle uncoating	biological_process
+GO:0006898	receptor-mediated endocytosis	biological_process
+GO:0006907	pinocytosis	biological_process
+GO:0006909	phagocytosis	biological_process
+GO:0006910	phagocytosis, recognition	biological_process
+GO:0006911	phagocytosis, engulfment	biological_process
+GO:0008228	opsonization	biological_process
+GO:0016183	synaptic vesicle coating	biological_process
+GO:0016185	synaptic vesicle budding from presynaptic endocytic zone membrane	biological_process
+GO:0019065	receptor-mediated endocytosis of virus by host cell	biological_process
+GO:0030100	regulation of endocytosis	biological_process
+GO:0031623	receptor internalization	biological_process
+GO:0035037	sperm entry	biological_process
+GO:0036300	B cell receptor internalization	biological_process
+GO:0038009	regulation of signal transduction by receptor internalization	biological_process
+GO:0038010	positive regulation of signal transduction by receptor internalization	biological_process
+GO:0038011	negative regulation of signal transduction by receptor internalization	biological_process
+GO:0038012	negative regulation of Wnt signaling pathway by Wnt receptor internalization	biological_process
+GO:0038013	positive regulation of Wnt signaling pathway by Wnt receptor internalization	biological_process
+GO:0038014	negative regulation of insulin receptor signaling pathway by insulin receptor internalization	biological_process
+GO:0038015	positive regulation of insulin receptor signaling pathway by insulin receptor internalization	biological_process
+GO:0038016	insulin receptor internalization	biological_process
+GO:0038017	Wnt receptor internalization	biological_process
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	biological_process
+GO:0043277	apoptotic cell clearance	biological_process
+GO:0043652	engulfment of apoptotic cell	biological_process
+GO:0043654	recognition of apoptotic cell	biological_process
+GO:0044077	modulation by symbiont of host receptor-mediated endocytosis	biological_process
+GO:0044078	positive regulation by symbiont of host receptor-mediated endocytosis	biological_process
+GO:0044350	micropinocytosis	biological_process
+GO:0044351	macropinocytosis	biological_process
+GO:0045806	negative regulation of endocytosis	biological_process
+GO:0045807	positive regulation of endocytosis	biological_process
+GO:0048259	regulation of receptor-mediated endocytosis	biological_process
+GO:0048260	positive regulation of receptor-mediated endocytosis	biological_process
+GO:0048261	negative regulation of receptor-mediated endocytosis	biological_process
+GO:0048488	synaptic vesicle endocytosis	biological_process
+GO:0048548	regulation of pinocytosis	biological_process
+GO:0048549	positive regulation of pinocytosis	biological_process
+GO:0048550	negative regulation of pinocytosis	biological_process
+GO:0050764	regulation of phagocytosis	biological_process
+GO:0050765	negative regulation of phagocytosis	biological_process
+GO:0050766	positive regulation of phagocytosis	biological_process
+GO:0051600	regulation of endocytosis by exocyst localization	biological_process
+GO:0052066	entry of symbiont into host cell by promotion of host phagocytosis	biological_process
+GO:0052190	modulation by symbiont of host phagocytosis	biological_process
+GO:0052191	positive regulation by symbiont of host phagocytosis	biological_process
+GO:0052231	modulation of phagocytosis in other organism involved in symbiotic interaction	biological_process
+GO:0052370	entry of organism into cell of other organism by promotion of phagocytosis in other organism involved in symbiotic interaction	biological_process
+GO:0052462	modulation by host of symbiont phagocytosis	biological_process
+GO:0052521	positive regulation by host of symbiont phagocytosis	biological_process
+GO:0052522	positive regulation by organism of phagocytosis in other organism involved in symbiotic interaction	biological_process
+GO:0060097	cytoskeletal rearrangement involved in phagocytosis, engulfment	biological_process
+GO:0060098	membrane reorganization involved in phagocytosis, engulfment	biological_process
+GO:0060099	regulation of phagocytosis, engulfment	biological_process
+GO:0060100	positive regulation of phagocytosis, engulfment	biological_process
+GO:0060101	negative regulation of phagocytosis, engulfment	biological_process
+GO:0061707	extracellular exosome macropinocytosis	biological_process
+GO:0070086	ubiquitin-dependent endocytosis	biological_process
+GO:0072583	clathrin-dependent endocytosis	biological_process
+GO:0072584	caveolin-mediated endocytosis	biological_process
+GO:0075509	endocytosis involved in viral entry into host cell	biological_process
+GO:0075510	macropinocytosis involved in viral entry into host cell	biological_process
+GO:0075512	clathrin-dependent endocytosis of virus by host cell	biological_process
+GO:0075513	caveolin-mediated endocytosis of virus by host cell	biological_process
+GO:0090118	receptor-mediated endocytosis involved in cholesterol transport	biological_process
+GO:0090384	phagosome-lysosome docking	biological_process
+GO:0090385	phagosome-lysosome fusion	biological_process
+GO:0090386	phagosome maturation involved in apoptotic cell clearance	biological_process
+GO:0090387	phagolysosome assembly involved in apoptotic cell clearance	biological_process
+GO:0090388	phagosome-lysosome docking involved in apoptotic cell clearance	biological_process
+GO:0090389	phagosome-lysosome fusion involved in apoptotic cell clearance	biological_process
+GO:0090390	phagosome acidification involved in apoptotic cell clearance	biological_process
+GO:0098884	postsynaptic neurotransmitter receptor internalization	biological_process
+GO:0099042	nucleation of clathrin-coated pit	biological_process
+GO:0099043	cargo loading involved in clathrin-dependent endocytosis	biological_process
+GO:0099049	clathrin coat assembly involved in endocytosis	biological_process
+GO:0099051	vesicle scission involved in endocytosis	biological_process
+GO:0099052	vesicle scission involved in clathrin-mediated endocytosis	biological_process
+GO:0099590	neurotransmitter receptor internalization	biological_process
+GO:1900186	negative regulation of clathrin-dependent endocytosis	biological_process
+GO:1900242	regulation of synaptic vesicle endocytosis	biological_process
+GO:1900243	negative regulation of synaptic vesicle endocytosis	biological_process
+GO:1900244	positive regulation of synaptic vesicle endocytosis	biological_process
+GO:1901074	regulation of engulfment of apoptotic cell	biological_process
+GO:1901075	negative regulation of engulfment of apoptotic cell	biological_process
+GO:1901076	positive regulation of engulfment of apoptotic cell	biological_process
+GO:1901245	positive regulation of toll-like receptor 9 signaling pathway by B cell receptor internalization	biological_process
+GO:1902536	single-organism pinocytosis	biological_process
+GO:1902537	multi-organism pinocytosis	biological_process
+GO:1902538	single-organism macropinocytosis	biological_process
+GO:1902539	multi-organism macropinocytosis	biological_process
+GO:1902540	single-organism micropinocytosis	biological_process
+GO:1902541	multi-organism micropinocytosis	biological_process
+GO:1903027	regulation of opsonization	biological_process
+GO:1903028	positive regulation of opsonization	biological_process
+GO:1903388	regulation of synaptic vesicle uncoating	biological_process
+GO:1903389	negative regulation of synaptic vesicle uncoating	biological_process
+GO:1903390	positive regulation of synaptic vesicle uncoating	biological_process
+GO:1904020	regulation of G-protein coupled receptor internalization	biological_process
+GO:1904021	negative regulation of G-protein coupled receptor internalization	biological_process
+GO:1904022	positive regulation of G-protein coupled receptor internalization	biological_process
+GO:1905301	regulation of macropinocytosis	biological_process
+GO:1905302	negative regulation of macropinocytosis	biological_process
+GO:1905303	positive regulation of macropinocytosis	biological_process
+GO:1905449	regulation of Fc-gamma receptor signaling pathway involved in phagocytosis	biological_process
+GO:1905450	negative regulation of Fc-gamma receptor signaling pathway involved in phagocytosis	biological_process
+GO:1905451	positive regulation of Fc-gamma receptor signaling pathway involved in phagocytosis	biological_process
+GO:1905598	negative regulation of low-density lipoprotein receptor activity	biological_process
+GO:1905599	positive regulation of low-density lipoprotein receptor activity	biological_process
+GO:1905600	regulation of receptor-mediated endocytosis involved in cholesterol transport	biological_process
+GO:1905601	negative regulation of receptor-mediated endocytosis involved in cholesterol transport	biological_process
+GO:1905602	positive regulation of receptor-mediated endocytosis involved in cholesterol transport	biological_process
+GO:1990767	prostaglandin receptor internalization	biological_process
+GO:1990771	clathrin-dependent extracellular exosome endocytosis	biological_process
+GO:2000286	receptor internalization involved in canonical Wnt signaling pathway	biological_process
+GO:2000369	regulation of clathrin-dependent endocytosis	biological_process
+GO:2000370	positive regulation of clathrin-dependent endocytosis	biological_process
+GO:2000395	regulation of ubiquitin-dependent endocytosis	biological_process
+GO:2000396	negative regulation of ubiquitin-dependent endocytosis	biological_process
+GO:2000397	positive regulation of ubiquitin-dependent endocytosis	biological_process
+GO:2000425	regulation of apoptotic cell clearance	biological_process
+GO:2000426	negative regulation of apoptotic cell clearance	biological_process
+GO:2000427	positive regulation of apoptotic cell clearance	biological_process
+GO:2001286	regulation of caveolin-mediated endocytosis	biological_process
+GO:2001287	negative regulation of caveolin-mediated endocytosis	biological_process
+GO:2001288	positive regulation of caveolin-mediated endocytosis	biological_process

@@ -1,0 +1,4 @@
+GO:0034205	beta-amyloid formation	biological_process
+GO:1902003	regulation of beta-amyloid formation	biological_process
+GO:1902004	positive regulation of beta-amyloid formation	biological_process
+GO:1902430	negative regulation of beta-amyloid formation	biological_process

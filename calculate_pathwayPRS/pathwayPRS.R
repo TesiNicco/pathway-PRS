@@ -165,7 +165,7 @@ function.grs.AllVar.apoeIncl <- function(dosages, loci.ad.effect){
 function.ExtractDosages <- function(literature, plink.files){
 	#write temporary file with snp list
 	write.table(literature$SNP, "tmp.variants", row.names=F, col.names=F, quote=F)
-        write.table(literature$LOCUS, "tmp.variants2", row.names=F, col.names=F, quote=F)
+  write.table(literature$LOCUS, "tmp.variants2", row.names=F, col.names=F, quote=F)
 
 	#modify plink2 file link to make it suitable for loop
 	tmp.link <- str_split_fixed(plink.files, "1", 2)
@@ -176,32 +176,33 @@ function.ExtractDosages <- function(literature, plink.files){
 	chrom_list <- paste0(chroms, collapse=" ")
 
 	#make command for dosages extraction
-	plink2_cmd <- paste("for chr in ", chrom_list, "; do plink2 --pfile ", corr.link, " --extract tmp.variants --export A --out chr${chr}_tmp; done", sep="")
-        plink2_cmd2 <- paste("for chr in ", chrom_list, "; do plink2 --pfile ", corr.link, " --extract tmp.variants2 --export A --out chr${chr}_tmp2; done", sep="")
+	plink2_cmd <- paste("for chr in ", chrom_list, "; do /Users/nicco/Desktop/Script_and_Tools/plink2 --pfile ", corr.link, " --extract tmp.variants --export A --out chr${chr}_tmp; done", sep="")
+  plink2_cmd2 <- paste("for chr in ", chrom_list, "; do /Users/nicco/Desktop/Script_and_Tools/plink2 --pfile ", corr.link, " --extract tmp.variants2 --export A --out chr${chr}_tmp2; done", sep="")
 	system(plink2_cmd, ignore.stdout = TRUE)
-        system(plink2_cmd2, ignore.stdout = TRUE)
-	#clean log files
+  system(plink2_cmd2, ignore.stdout = TRUE)
+
+  #read files in and merge them together
+  all_files = system('ls chr*tmp*raw', intern = T)
+  all_dosages = data.frame(IID = as.character())
+  for (f in all_files){
+    tmp = fread(f, h=T, stringsAsFactors=F)
+    tmp$FID = NULL; tmp$PAT = NULL; tmp$MAT = NULL; tmp$SEX = NULL; tmp$PHENOTYPE = NULL
+    if (nrow(all_dosages) == 0){
+      all_dosages = tmp
+    } else {
+      all_dosages = merge(all_dosages, tmp, by = 'IID')
+    }
+  }
+
+	#clean files
 	cmd_clean <- "rm *log"
 	system(cmd_clean)
-	#merge files together
-	cmd_bind <- "paste --delimiters='\t' *raw > chrAll_dosages.txt"
-	system(cmd_bind)
 	cmd_clean <- "rm *raw"
 	system(cmd_clean)
 	cmd_clean <- "rm *tmp*"
 	system(cmd_clean)
 
-	#read file back in R
-	dos <- read.table("chrAll_dosages.txt", h=T, sep="\t", check.names=F, stringsAsFactors=F)
-
-	#take informative columns
-	x <- colnames(dos)
-	col.index <- grep(":", x)
-	col.index2 <- grep("rs", x)
-	dos.cl <- dos[, c(col.index, col.index2)]
-	dos.cl$IID <- dos$IID
-
-	return(dos.cl)
+	return(all_dosages)
 }
 
 #################################################
@@ -215,15 +216,17 @@ RUN = function.checkArguments()
 if (RUN == TRUE){
   # READ LITERATURE AND VARIANT-PATHWAY MAPPING -- THE FILE IS FROM SUPP.TABLE S11
   print("## Reading and parsing literature file..")
-  literature <- read.xlsx(file = args[1], sheetIndex = 18,
-                          startRow = 2, stringsAsFactors = F)
-  literature$LOCUS <- paste(literature$CHR, literature$POS, sep=":")
+  #literature <- read.xlsx(file = 'pathwayPRS_TranslationalPsychiatry.xlsx', sheetIndex = 10, startRow = 2, stringsAsFactors = F)
+  literature <- read.xlsx(file = args[1], sheetIndex = 10, startRow = 2, stringsAsFactors = F)
+  literature$LOCUS <- paste(literature$CHR, literature$POSITION, sep=":")
+  # remove extra rows from the excel file
   literature <- literature[!is.na(literature$CHOLESTEROL.LIPID),]
 
   # EXTRACT DOSAGES AND READ THEM BACK
   print("## Extracting dosages from PLINK2 files..")
+  #dosages <- function.ExtractDosages(literature, '../example_files_pathwayPRS/plink_examples/chr1_example')
   dosages <- function.ExtractDosages(literature, args[2])
-  loci <- as.data.frame(str_split_fixed(colnames(dosages), "_", 3))
+  loci <- as.data.frame(str_split_fixed(colnames(dosages), "_", 3), stringsAsFactors = F)
   colnames(dosages) <- loci$V1
   samples <- dosages$IID
   dosages <- t(dosages)

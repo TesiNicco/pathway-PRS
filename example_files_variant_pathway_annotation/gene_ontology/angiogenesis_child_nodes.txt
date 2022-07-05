@@ -1,0 +1,34 @@
+GO:0001569	branching involved in blood vessel morphogenesis	biological_process
+GO:0002040	sprouting angiogenesis	biological_process
+GO:0002041	intussusceptive angiogenesis	biological_process
+GO:0002042	cell migration involved in sprouting angiogenesis	biological_process
+GO:0002043	blood vessel endothelial cell proliferation involved in sprouting angiogenesis	biological_process
+GO:0002044	blood vessel endothelial cell migration involved in intussusceptive angiogenesis	biological_process
+GO:0002045	regulation of cell adhesion involved in intussusceptive angiogenesis	biological_process
+GO:0016525	negative regulation of angiogenesis	biological_process
+GO:0035470	positive regulation of vascular wound healing	biological_process
+GO:0045765	regulation of angiogenesis	biological_process
+GO:0045766	positive regulation of angiogenesis	biological_process
+GO:0060055	angiogenesis involved in wound healing	biological_process
+GO:0060978	angiogenesis involved in coronary vascular morphogenesis	biological_process
+GO:0060981	cell migration involved in coronary angiogenesis	biological_process
+GO:0061042	vascular wound healing	biological_process
+GO:0061043	regulation of vascular wound healing	biological_process
+GO:0061044	negative regulation of vascular wound healing	biological_process
+GO:0061249	mesonephric glomerular capillary formation	biological_process
+GO:0072104	glomerular capillary formation	biological_process
+GO:0072277	metanephric glomerular capillary formation	biological_process
+GO:0090049	regulation of cell migration involved in sprouting angiogenesis	biological_process
+GO:0090050	positive regulation of cell migration involved in sprouting angiogenesis	biological_process
+GO:0090051	negative regulation of cell migration involved in sprouting angiogenesis	biological_process
+GO:0097102	endothelial tip cell fate specification	biological_process
+GO:0097103	endothelial stalk cell fate specification	biological_process
+GO:1903587	regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	biological_process
+GO:1903588	negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	biological_process
+GO:1903589	positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	biological_process
+GO:1903670	regulation of sprouting angiogenesis	biological_process
+GO:1903671	negative regulation of sprouting angiogenesis	biological_process
+GO:1903672	positive regulation of sprouting angiogenesis	biological_process
+GO:1905553	regulation of blood vessel branching	biological_process
+GO:1905554	negative regulation of vessel branching	biological_process
+GO:1905555	positive regulation blood vessel branching	biological_process

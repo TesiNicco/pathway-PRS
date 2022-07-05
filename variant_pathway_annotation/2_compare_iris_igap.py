@@ -1,7 +1,5 @@
-#!/usr/bin/python2.7
 
-# compare IGAP and IRIS snps to gene mapping procedures
-
+# compare IGAP and JANSEN ET AL. snps to gene mapping procedures
 import os
 import sys
 
@@ -11,7 +9,7 @@ def read_mapping_file():
     igap = {}
     iris = {}
     other = {}
-    inpf = open("1_igap_iris_mapping_genes.txt").readlines()
+    inpf = open(sys.argv[1]).readlines()
     for line in inpf:
         genes_igap_clean = []
         genes_iris_clean = []
@@ -67,10 +65,10 @@ def compare_annotation(igap, iris, other):
 
     sum_per_gene = []
     for locus in annotation.keys():
-        print locus
+        print (locus)
         genes_n = 0
         for gene in annotation[locus].keys():
-            print "\t %s : %s" % (gene, annotation[locus][gene])
+            print ("\t %s : %s" % (gene, annotation[locus][gene]))
             genes_n = genes_n + annotation[locus][gene]
         sum_per_gene.append(genes_n)
 
@@ -80,7 +78,7 @@ def compare_annotation(igap, iris, other):
         for gene in annotation[locus].keys():
             annotation[locus][gene] = annotation[locus][gene] / float(sum_per_gene[index])
         index += 1
-    print annotation
+    print (annotation)
 
 
     return annotation
@@ -121,9 +119,9 @@ def write_geneList(annotation):
     out.close()
     return "Second output is produces. Name is '4_merged_annotation_IGAP_IRIS_OTHER.txt'"
 
-##########MAIN
+########## MAIN
 
 igap, iris, other = read_mapping_file()
 annotation = compare_annotation(igap, iris, other)
-print write_consensus(annotation)
-print write_geneList(annotation)
+print (write_consensus(annotation))
+print (write_geneList(annotation))

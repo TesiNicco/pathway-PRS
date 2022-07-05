@@ -1,0 +1,13 @@
+GO:0006695	cholesterol biosynthetic process	biological_process
+GO:0006707	cholesterol catabolic process	biological_process
+GO:0019708	peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine	biological_process
+GO:0033488	cholesterol biosynthetic process via 24,25-dihydrolanosterol	biological_process
+GO:0033489	cholesterol biosynthetic process via desmosterol	biological_process
+GO:0033490	cholesterol biosynthetic process via lathosterol	biological_process
+GO:0045540	regulation of cholesterol biosynthetic process	biological_process
+GO:0045541	negative regulation of cholesterol biosynthetic process	biological_process
+GO:0045542	positive regulation of cholesterol biosynthetic process	biological_process
+GO:0090122	cholesterol ester hydrolysis involved in cholesterol transport	biological_process
+GO:0090181	regulation of cholesterol metabolic process	biological_process
+GO:0090205	positive regulation of cholesterol metabolic process	biological_process
+GO:0090206	negative regulation of cholesterol metabolic process	biological_process

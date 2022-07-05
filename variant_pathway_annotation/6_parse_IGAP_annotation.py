@@ -1,8 +1,10 @@
-#!/usr/bin/python2.7
+# Libraries
+import os
+import sys
 
 # read IGAP annotation file and save it into a dictionary of GO:genes
 def read_annotation_file():
-    finp = open("5_IGAP_pathways_with_genes.txt").readlines()
+    finp = open(sys.argv[1]).readlines()
     i = 0
     annotation = {}
     while i < len(finp):
@@ -27,7 +29,7 @@ def read_annotation_file():
             gene_list = []
         i += 1
     for go in annotation.keys():
-        print "There are %s genes associated with GO %s" % (len(annotation[go]), go)
+        print ("There are %s genes associated with GO %s" % (len(annotation[go]), go))
     return annotation
 
 # group found go terms into pre-defined set of functional groups
@@ -35,11 +37,11 @@ def group_assigned_go(annotation):
     groups = {}
     pre_defined_groups = ["Immune system", "Beta-amyloid", "Cholesterol/lipid", "Endocytosis", "Vascular/Angiogenesis",
                           "Unknown"]
-    print "\n"
+    print ("\n")
     for go in annotation.keys():
         go_code, go_term = go[0], go[1]
         if ("immune" in go_term) or ("Immune" in go_term):
-            print go, " --> Immune"
+            print (go, " --> Immune")
             if "Immune system" in groups.keys():
                 for gene in annotation[go]:
                     groups["Immune system"].append(gene)
@@ -49,7 +51,7 @@ def group_assigned_go(annotation):
                     groups["Immune system"].append(gene)
 
         elif ("tau" in go_term) or ("beta" in go_term) or ("amyloid" in go_term):
-            print go, " --> Amyloid"
+            print (go, " --> Amyloid")
             if "Beta-amyloid" in groups.keys():
                 for gene in annotation[go]:
                     groups["Beta-amyloid"].append(gene)
@@ -59,7 +61,7 @@ def group_assigned_go(annotation):
                     groups["Beta-amyloid"].append(gene)
 
         elif ("lipo" in go_term) or ("lipid" in go_term) or ("cholesterol" in go_term):
-            print go, " --> Lipid"
+            print (go, " --> Lipid")
             if "Cholesterol/lipid" in groups.keys():
                 for gene in annotation[go]:
                     groups["Cholesterol/lipid"].append(gene)
@@ -69,10 +71,10 @@ def group_assigned_go(annotation):
                     groups["Cholesterol/lipid"].append(gene)
 
         else:
-            print "No groups found for GO term %s" % (go_term)
-    print "\nFunctional groups before cleaning"
+            print ("No groups found for GO term %s" % (go_term))
+    print ("\nFunctional groups before cleaning")
     for group in groups.keys():
-        print group, groups[group]
+        print (group, groups[group])
     return groups
 
 # exclude duplicates from each gene set
@@ -80,9 +82,9 @@ def parse_gene_list(groups):
     for group in groups.keys():
         cleaned_list = list(set(groups[group]))
         groups[group] = cleaned_list
-    print "\nFunctional groups after cleaning"
+    print ("\nFunctional groups after cleaning")
     for group in groups.keys():
-        print group, groups[group]
+        print (group, groups[group])
     return groups
 
 #read list of my genes
@@ -118,7 +120,7 @@ def read_my_genes():
                         else:
                             my_genes.append(gene)
             locus_genes[(locus, pos)] = genes
-    print "\nIn my list there are %s non-duplicated genes: %s" %(len(my_genes), my_genes)
+    print ("\nIn my list there are %s non-duplicated genes: %s" %(len(my_genes), my_genes))
     return my_genes, locus_genes
 
 #merge my genes and annotated genes and make summary about the merging procedure
@@ -141,10 +143,10 @@ def merge(my_genes, cleaned_groups):
                     my_genes_annotated[go].append(gene)
             else:
                 pass
-    print "\nMapped genes were %s" %(mapped)
-    print "Unmapped genes were %s" %(unmapped)
+    print ("\nMapped genes were %s" %(mapped))
+    print ("Unmapped genes were %s" %(unmapped))
     for go in my_genes_annotated.keys():
-        print go, my_genes_annotated[go]
+        print (go, my_genes_annotated[go])
     return my_genes_annotated
 
 #write output
@@ -168,4 +170,4 @@ groups = group_assigned_go(annotation)
 cleaned_groups = parse_gene_list(groups)
 my_genes, locus_genes = read_my_genes()
 my_genes_annotated = merge(my_genes, cleaned_groups)
-print write_output(my_genes_annotated)
+print (write_output(my_genes_annotated))

@@ -1,0 +1,11 @@
+##filedate=2018.11.7
+##contig=<ID=6>
+##FILTER=<ID=GENOTYPED,Description="Marker was genotyped AND imputed">
+##FILTER=<ID=GENOTYPED_ONLY,Description="Marker was genotyped but NOT imputed">
+##INFO=<ID=AF,Number=1,Type=Float,Description="Estimated Alternate Allele Frequency">
+##INFO=<ID=MAF,Number=1,Type=Float,Description="Estimated Minor Allele Frequency">
+##INFO=<ID=R2,Number=1,Type=Float,Description="Estimated Imputation Accuracy">
+##INFO=<ID=ER2,Number=1,Type=Float,Description="Empirical (Leave-One-Out) R-square (available only for genotyped variants)">
+#CHROM	POS	ID	REF	ALT	FILTER	INFO
+6	32578530	6:32578530	C	A	PASS;GENOTYPED	AF=0.72321;MAF=0.27679;R2=1.00000;ER2=1.00000
+6	47431284	6:47431284	A	C	PASS	AF=0.27049;MAF=0.27049;R2=0.97729

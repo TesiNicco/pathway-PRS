@@ -1,0 +1,40 @@
+Immune system
+CR1
+ABCA7
+EPHA1
+INPP5D
+MEF2C
+MS4A6A
+MS4A4A
+MS4A2
+MS4A3
+MS4A4E
+MS4A6E
+HLA-DRB1
+HLA-DRB5
+Beta-amyloid
+SORL1
+CLU
+PICALM
+ABCA7
+CD2AP
+Cholesterol/lipid
+CLU
+ABCA7
+Endocytosis
+SORL1
+BIN1
+PICALM
+EPHA1
+CD2AP
+Vascular/Angiogenesis
+Unknown
+FERMT2 (Cytoskeletal function and axonal transport)
+CASS4 (Cytoskeletal function and axonal transport)
+PTK2B (Cell migration and synaptic function)
+ZCWPW1 (Neural development)
+NYAP1 (Neural development)
+SLC24A4 (Neural development and axonal transport)
+RIN3 (Neural development and axonal transport)
+NME8 (Cytoskeletal function and axonal transport)
+CELF1 (Cytoskeletal function and axonal transport)

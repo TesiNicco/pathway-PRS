@@ -21,12 +21,12 @@ def read_input(annotation):
                 else:
                     annot[go] = []
                     annot[go].append(gene)
-    print "**** Annotation -> %s" %(annotation)
+    print ("**** Annotation -> %s" %(annotation))
     for go in annot.keys():
-        print "** GO -> %s reported %s genes" %(go, len(annot[go]))
-    print "** Total number of genes is %s" %(len(all_genes))
+        print ("** GO -> %s reported %s genes" %(go, len(annot[go])))
+    print ("** Total number of genes is %s" %(len(all_genes)))
     return "\n\n"
 
 file_list = ["17_assigned_functions_DAVID.txt", "14_assigned_functions_GENE-ONTOLOGY.txt", "7_assigned_functions_IGAP.txt", "10_assigned_functions_LITERATURE.txt"]
 for f in file_list:
-    print read_input(f)
+    print (read_input(f))

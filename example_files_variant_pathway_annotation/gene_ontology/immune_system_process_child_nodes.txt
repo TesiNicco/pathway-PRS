@@ -1,0 +1,1873 @@
+GO:0001767	establishment of lymphocyte polarity	biological_process
+GO:0001768	establishment of T cell polarity	biological_process
+GO:0001769	establishment of B cell polarity	biological_process
+GO:0001770	establishment of natural killer cell polarity	biological_process
+GO:0001771	immunological synapse formation	biological_process
+GO:0001773	myeloid dendritic cell activation	biological_process
+GO:0001774	microglial cell activation	biological_process
+GO:0001776	leukocyte homeostasis	biological_process
+GO:0001777	T cell homeostatic proliferation	biological_process
+GO:0001779	natural killer cell differentiation	biological_process
+GO:0001780	neutrophil homeostasis	biological_process
+GO:0001781	neutrophil apoptotic process	biological_process
+GO:0001782	B cell homeostasis	biological_process
+GO:0001787	natural killer cell proliferation	biological_process
+GO:0001788	antibody-dependent cellular cytotoxicity	biological_process
+GO:0001794	type IIa hypersensitivity	biological_process
+GO:0001795	type IIb hypersensitivity	biological_process
+GO:0001796	regulation of type IIa hypersensitivity	biological_process
+GO:0001797	negative regulation of type IIa hypersensitivity	biological_process
+GO:0001798	positive regulation of type IIa hypersensitivity	biological_process
+GO:0001799	regulation of type IIb hypersensitivity	biological_process
+GO:0001800	negative regulation of type IIb hypersensitivity	biological_process
+GO:0001801	positive regulation of type IIb hypersensitivity	biological_process
+GO:0001802	type III hypersensitivity	biological_process
+GO:0001803	regulation of type III hypersensitivity	biological_process
+GO:0001804	negative regulation of type III hypersensitivity	biological_process
+GO:0001805	positive regulation of type III hypersensitivity	biological_process
+GO:0001806	type IV hypersensitivity	biological_process
+GO:0001807	regulation of type IV hypersensitivity	biological_process
+GO:0001808	negative regulation of type IV hypersensitivity	biological_process
+GO:0001809	positive regulation of type IV hypersensitivity	biological_process
+GO:0001810	regulation of type I hypersensitivity	biological_process
+GO:0001811	negative regulation of type I hypersensitivity	biological_process
+GO:0001812	positive regulation of type I hypersensitivity	biological_process
+GO:0001813	regulation of antibody-dependent cellular cytotoxicity	biological_process
+GO:0001814	negative regulation of antibody-dependent cellular cytotoxicity	biological_process
+GO:0001815	positive regulation of antibody-dependent cellular cytotoxicity	biological_process
+GO:0001865	NK T cell differentiation	biological_process
+GO:0001866	NK T cell proliferation	biological_process
+GO:0001867	complement activation, lectin pathway	biological_process
+GO:0001868	regulation of complement activation, lectin pathway	biological_process
+GO:0001869	negative regulation of complement activation, lectin pathway	biological_process
+GO:0001870	positive regulation of complement activation, lectin pathway	biological_process
+GO:0001905	activation of membrane attack complex	biological_process
+GO:0001913	T cell mediated cytotoxicity	biological_process
+GO:0001914	regulation of T cell mediated cytotoxicity	biological_process
+GO:0001915	negative regulation of T cell mediated cytotoxicity	biological_process
+GO:0001916	positive regulation of T cell mediated cytotoxicity	biological_process
+GO:0001922	B-1 B cell homeostasis	biological_process
+GO:0001923	B-1 B cell differentiation	biological_process
+GO:0001924	regulation of B-1 B cell differentiation	biological_process
+GO:0001925	negative regulation of B-1 B cell differentiation	biological_process
+GO:0001926	positive regulation of B-1 B cell differentiation	biological_process
+GO:0001969	regulation of activation of membrane attack complex	biological_process
+GO:0001970	positive regulation of activation of membrane attack complex	biological_process
+GO:0001971	negative regulation of activation of membrane attack complex	biological_process
+GO:0002200	somatic diversification of immune receptors	biological_process
+GO:0002201	somatic diversification of DSCAM-based immune receptors	biological_process
+GO:0002202	somatic diversification of variable lymphocyte receptors of jawless fish	biological_process
+GO:0002203	proteolysis by cytosolic proteases associated with antigen processing and presentation	biological_process
+GO:0002204	somatic recombination of immunoglobulin genes involved in immune response	biological_process
+GO:0002205	somatic hypermutation of immunoglobulin genes involved in immune response	biological_process
+GO:0002206	gene conversion of immunoglobulin genes	biological_process
+GO:0002207	gene conversion of immunoglobulin genes involved in immune response	biological_process
+GO:0002208	somatic diversification of immunoglobulins involved in immune response	biological_process
+GO:0002218	activation of innate immune response	biological_process
+GO:0002220	innate immune response activating cell surface receptor signaling pathway	biological_process
+GO:0002221	pattern recognition receptor signaling pathway	biological_process
+GO:0002222	stimulatory killer cell immunoglobulin-like receptor signaling pathway	biological_process
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	biological_process
+GO:0002224	toll-like receptor signaling pathway	biological_process
+GO:0002225	positive regulation of antimicrobial peptide production	biological_process
+GO:0002227	innate immune response in mucosa	biological_process
+GO:0002228	natural killer cell mediated immunity	biological_process
+GO:0002230	positive regulation of defense response to virus by host	biological_process
+GO:0002232	leukocyte chemotaxis involved in inflammatory response	biological_process
+GO:0002233	leukocyte chemotaxis involved in immune response	biological_process
+GO:0002244	hematopoietic progenitor cell differentiation	biological_process
+GO:0002249	lymphocyte anergy	biological_process
+GO:0002250	adaptive immune response	biological_process
+GO:0002251	organ or tissue specific immune response	biological_process
+GO:0002252	immune effector process	biological_process
+GO:0002253	activation of immune response	biological_process
+GO:0002259	endothelial cell activation within high endothelial venule involved in immune response	biological_process
+GO:0002260	lymphocyte homeostasis	biological_process
+GO:0002261	mucosal lymphocyte homeostasis	biological_process
+GO:0002262	myeloid cell homeostasis	biological_process
+GO:0002263	cell activation involved in immune response	biological_process
+GO:0002264	endothelial cell activation involved in immune response	biological_process
+GO:0002265	astrocyte activation involved in immune response	biological_process
+GO:0002267	follicular dendritic cell activation involved in immune response	biological_process
+GO:0002269	leukocyte activation involved in inflammatory response	biological_process
+GO:0002270	plasmacytoid dendritic cell activation	biological_process
+GO:0002271	plasmacytoid dendritic cell activation involved in immune response	biological_process
+GO:0002272	plasmacytoid dendritic cell differentiation involved in immune response	biological_process
+GO:0002273	plasmacytoid dendritic cell differentiation	biological_process
+GO:0002274	myeloid leukocyte activation	biological_process
+GO:0002275	myeloid cell activation involved in immune response	biological_process
+GO:0002276	basophil activation involved in immune response	biological_process
+GO:0002277	myeloid dendritic cell activation involved in immune response	biological_process
+GO:0002278	eosinophil activation involved in immune response	biological_process
+GO:0002279	mast cell activation involved in immune response	biological_process
+GO:0002280	monocyte activation involved in immune response	biological_process
+GO:0002281	macrophage activation involved in immune response	biological_process
+GO:0002282	microglial cell activation involved in immune response	biological_process
+GO:0002283	neutrophil activation involved in immune response	biological_process
+GO:0002284	myeloid dendritic cell differentiation involved in immune response	biological_process
+GO:0002285	lymphocyte activation involved in immune response	biological_process
+GO:0002286	T cell activation involved in immune response	biological_process
+GO:0002287	alpha-beta T cell activation involved in immune response	biological_process
+GO:0002288	NK T cell activation involved in immune response	biological_process
+GO:0002289	NK T cell proliferation involved in immune response	biological_process
+GO:0002290	gamma-delta T cell activation involved in immune response	biological_process
+GO:0002291	T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	biological_process
+GO:0002292	T cell differentiation involved in immune response	biological_process
+GO:0002293	alpha-beta T cell differentiation involved in immune response	biological_process
+GO:0002294	CD4-positive, alpha-beta T cell differentiation involved in immune response	biological_process
+GO:0002295	T-helper cell lineage commitment	biological_process
+GO:0002296	T-helper 1 cell lineage commitment	biological_process
+GO:0002297	T-helper 2 cell lineage commitment	biological_process
+GO:0002298	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	biological_process
+GO:0002299	alpha-beta intraepithelial T cell differentiation	biological_process
+GO:0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation	biological_process
+GO:0002301	CD4-positive, alpha-beta intraepithelial T cell differentiation	biological_process
+GO:0002302	CD8-positive, alpha-beta T cell differentiation involved in immune response	biological_process
+GO:0002303	gamma-delta T cell differentiation involved in immune response	biological_process
+GO:0002304	gamma-delta intraepithelial T cell differentiation	biological_process
+GO:0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation	biological_process
+GO:0002306	CD4-positive gamma-delta intraepithelial T cell differentiation	biological_process
+GO:0002307	CD8-positive, alpha-beta regulatory T cell differentiation	biological_process
+GO:0002308	CD8-positive, alpha-beta cytotoxic T cell differentiation	biological_process
+GO:0002309	T cell proliferation involved in immune response	biological_process
+GO:0002310	alpha-beta T cell proliferation involved in immune response	biological_process
+GO:0002311	gamma-delta T cell proliferation involved in immune response	biological_process
+GO:0002312	B cell activation involved in immune response	biological_process
+GO:0002313	mature B cell differentiation involved in immune response	biological_process
+GO:0002314	germinal center B cell differentiation	biological_process
+GO:0002315	marginal zone B cell differentiation	biological_process
+GO:0002316	follicular B cell differentiation	biological_process
+GO:0002317	plasma cell differentiation	biological_process
+GO:0002318	myeloid progenitor cell differentiation	biological_process
+GO:0002319	memory B cell differentiation	biological_process
+GO:0002320	lymphoid progenitor cell differentiation	biological_process
+GO:0002321	natural killer cell progenitor differentiation	biological_process
+GO:0002322	B cell proliferation involved in immune response	biological_process
+GO:0002323	natural killer cell activation involved in immune response	biological_process
+GO:0002324	natural killer cell proliferation involved in immune response	biological_process
+GO:0002325	natural killer cell differentiation involved in immune response	biological_process
+GO:0002326	B cell lineage commitment	biological_process
+GO:0002327	immature B cell differentiation	biological_process
+GO:0002328	pro-B cell differentiation	biological_process
+GO:0002329	pre-B cell differentiation	biological_process
+GO:0002330	pre-B cell receptor expression	biological_process
+GO:0002331	pre-B cell allelic exclusion	biological_process
+GO:0002332	transitional stage B cell differentiation	biological_process
+GO:0002333	transitional one stage B cell differentiation	biological_process
+GO:0002334	transitional two stage B cell differentiation	biological_process
+GO:0002335	mature B cell differentiation	biological_process
+GO:0002336	B-1 B cell lineage commitment	biological_process
+GO:0002337	B-1a B cell differentiation	biological_process
+GO:0002338	B-1b B cell differentiation	biological_process
+GO:0002339	B cell selection	biological_process
+GO:0002340	central B cell selection	biological_process
+GO:0002341	central B cell anergy	biological_process
+GO:0002342	central B cell deletion	biological_process
+GO:0002343	peripheral B cell selection	biological_process
+GO:0002344	B cell affinity maturation	biological_process
+GO:0002345	peripheral B cell receptor editing	biological_process
+GO:0002346	B cell positive selection	biological_process
+GO:0002348	central B cell positive selection	biological_process
+GO:0002350	peripheral B cell positive selection	biological_process
+GO:0002352	B cell negative selection	biological_process
+GO:0002354	central B cell negative selection	biological_process
+GO:0002356	peripheral B cell negative selection	biological_process
+GO:0002358	B cell homeostatic proliferation	biological_process
+GO:0002359	B-1 B cell proliferation	biological_process
+GO:0002360	T cell lineage commitment	biological_process
+GO:0002361	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	biological_process
+GO:0002362	CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment	biological_process
+GO:0002363	alpha-beta T cell lineage commitment	biological_process
+GO:0002364	NK T cell lineage commitment	biological_process
+GO:0002365	gamma-delta T cell lineage commitment	biological_process
+GO:0002366	leukocyte activation involved in immune response	biological_process
+GO:0002367	cytokine production involved in immune response	biological_process
+GO:0002368	B cell cytokine production	biological_process
+GO:0002369	T cell cytokine production	biological_process
+GO:0002370	natural killer cell cytokine production	biological_process
+GO:0002371	dendritic cell cytokine production	biological_process
+GO:0002372	myeloid dendritic cell cytokine production	biological_process
+GO:0002373	plasmacytoid dendritic cell cytokine production	biological_process
+GO:0002374	cytokine secretion involved in immune response	biological_process
+GO:0002375	cytokine biosynthetic process involved in immune response	biological_process
+GO:0002377	immunoglobulin production	biological_process
+GO:0002378	immunoglobulin biosynthetic process	biological_process
+GO:0002379	immunoglobulin biosynthetic process involved in immune response	biological_process
+GO:0002380	immunoglobulin secretion involved in immune response	biological_process
+GO:0002381	immunoglobulin production involved in immunoglobulin mediated immune response	biological_process
+GO:0002383	immune response in brain or nervous system	biological_process
+GO:0002384	hepatic immune response	biological_process
+GO:0002385	mucosal immune response	biological_process
+GO:0002386	immune response in mucosal-associated lymphoid tissue	biological_process
+GO:0002387	immune response in gut-associated lymphoid tissue	biological_process
+GO:0002388	immune response in Peyer's patch	biological_process
+GO:0002389	tolerance induction in Peyer's patch	biological_process
+GO:0002394	tolerance induction in gut-associated lymphoid tissue	biological_process
+GO:0002395	immune response in nasopharyngeal-associated lymphoid tissue	biological_process
+GO:0002400	tolerance induction in nasopharyngeal-associated lymphoid tissue	biological_process
+GO:0002401	tolerance induction in mucosal-associated lymphoid tissue	biological_process
+GO:0002402	B cell tolerance induction in mucosal-associated lymphoid tissue	biological_process
+GO:0002403	T cell tolerance induction in mucosal-associated lymphoid tissue	biological_process
+GO:0002404	antigen sampling in mucosal-associated lymphoid tissue	biological_process
+GO:0002405	antigen sampling by dendritic cells in mucosal-associated lymphoid tissue	biological_process
+GO:0002406	antigen sampling by M cells in mucosal-associated lymphoid tissue	biological_process
+GO:0002407	dendritic cell chemotaxis	biological_process
+GO:0002408	myeloid dendritic cell chemotaxis	biological_process
+GO:0002409	Langerhans cell chemotaxis	biological_process
+GO:0002410	plasmacytoid dendritic cell chemotaxis	biological_process
+GO:0002411	T cell tolerance induction to tumor cell	biological_process
+GO:0002412	antigen transcytosis by M cells in mucosal-associated lymphoid tissue	biological_process
+GO:0002413	tolerance induction to tumor cell	biological_process
+GO:0002415	immunoglobulin transcytosis in epithelial cells mediated by polymeric immunoglobulin receptor	biological_process
+GO:0002417	B cell antigen processing and presentation mediated by B cell receptor uptake of antigen	biological_process
+GO:0002418	immune response to tumor cell	biological_process
+GO:0002419	T cell mediated cytotoxicity directed against tumor cell target	biological_process
+GO:0002420	natural killer cell mediated cytotoxicity directed against tumor cell target	biological_process
+GO:0002421	B cell antigen processing and presentation following pinocytosis	biological_process
+GO:0002422	immune response in urogenital tract	biological_process
+GO:0002423	natural killer cell mediated immune response to tumor cell	biological_process
+GO:0002424	T cell mediated immune response to tumor cell	biological_process
+GO:0002425	tolerance induction in urogenital tract	biological_process
+GO:0002426	immunoglobulin production in mucosal tissue	biological_process
+GO:0002427	mucosal tolerance induction	biological_process
+GO:0002428	antigen processing and presentation of peptide antigen via MHC class Ib	biological_process
+GO:0002429	immune response-activating cell surface receptor signaling pathway	biological_process
+GO:0002430	complement receptor mediated signaling pathway	biological_process
+GO:0002431	Fc receptor mediated stimulatory signaling pathway	biological_process
+GO:0002432	granuloma formation	biological_process
+GO:0002433	immune response-regulating cell surface receptor signaling pathway involved in phagocytosis	biological_process
+GO:0002434	immune complex clearance	biological_process
+GO:0002435	immune complex clearance by erythrocytes	biological_process
+GO:0002436	immune complex clearance by monocytes and macrophages	biological_process
+GO:0002437	inflammatory response to antigenic stimulus	biological_process
+GO:0002438	acute inflammatory response to antigenic stimulus	biological_process
+GO:0002439	chronic inflammatory response to antigenic stimulus	biological_process
+GO:0002440	production of molecular mediator of immune response	biological_process
+GO:0002443	leukocyte mediated immunity	biological_process
+GO:0002444	myeloid leukocyte mediated immunity	biological_process
+GO:0002445	type II hypersensitivity	biological_process
+GO:0002446	neutrophil mediated immunity	biological_process
+GO:0002447	eosinophil mediated immunity	biological_process
+GO:0002448	mast cell mediated immunity	biological_process
+GO:0002449	lymphocyte mediated immunity	biological_process
+GO:0002450	B cell antigen processing and presentation	biological_process
+GO:0002451	peripheral B cell tolerance induction	biological_process
+GO:0002452	B cell receptor editing	biological_process
+GO:0002453	peripheral B cell anergy	biological_process
+GO:0002454	peripheral B cell deletion	biological_process
+GO:0002455	humoral immune response mediated by circulating immunoglobulin	biological_process
+GO:0002456	T cell mediated immunity	biological_process
+GO:0002457	T cell antigen processing and presentation	biological_process
+GO:0002458	peripheral T cell tolerance induction	biological_process
+GO:0002459	adaptive immune response based on somatic recombination of immune receptors built from leucine-rich repeat domains	biological_process
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	biological_process
+GO:0002461	tolerance induction dependent upon immune response	biological_process
+GO:0002462	tolerance induction to nonself antigen	biological_process
+GO:0002463	central tolerance induction to nonself antigen	biological_process
+GO:0002464	peripheral tolerance induction to nonself antigen	biological_process
+GO:0002465	peripheral tolerance induction	biological_process
+GO:0002466	peripheral tolerance induction to self antigen	biological_process
+GO:0002467	germinal center formation	biological_process
+GO:0002468	dendritic cell antigen processing and presentation	biological_process
+GO:0002469	myeloid dendritic cell antigen processing and presentation	biological_process
+GO:0002470	plasmacytoid dendritic cell antigen processing and presentation	biological_process
+GO:0002471	monocyte antigen processing and presentation	biological_process
+GO:0002472	macrophage antigen processing and presentation	biological_process
+GO:0002473	non-professional antigen presenting cell antigen processing and presentation	biological_process
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	biological_process
+GO:0002475	antigen processing and presentation via MHC class Ib	biological_process
+GO:0002476	antigen processing and presentation of endogenous peptide antigen via MHC class Ib	biological_process
+GO:0002477	antigen processing and presentation of exogenous peptide antigen via MHC class Ib	biological_process
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	biological_process
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	biological_process
+GO:0002480	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent	biological_process
+GO:0002481	antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-dependent	biological_process
+GO:0002482	antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-independent	biological_process
+GO:0002483	antigen processing and presentation of endogenous peptide antigen	biological_process
+GO:0002484	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway	biological_process
+GO:0002485	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-dependent	biological_process
+GO:0002486	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	biological_process
+GO:0002487	antigen processing and presentation of endogenous peptide antigen via MHC class I via endolysosomal pathway	biological_process
+GO:0002488	antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway	biological_process
+GO:0002489	antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-dependent	biological_process
+GO:0002490	antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-independent	biological_process
+GO:0002491	antigen processing and presentation of endogenous peptide antigen via MHC class II	biological_process
+GO:0002492	peptide antigen assembly with MHC class Ib protein complex	biological_process
+GO:0002493	lipid antigen assembly with MHC class Ib protein complex	biological_process
+GO:0002494	lipid antigen transport	biological_process
+GO:0002495	antigen processing and presentation of peptide antigen via MHC class II	biological_process
+GO:0002496	proteolysis associated with antigen processing and presentation	biological_process
+GO:0002497	proteasomal proteolysis associated with antigen processing and presentation	biological_process
+GO:0002498	proteolysis within endoplasmic reticulum associated with antigen processing and presentation	biological_process
+GO:0002499	proteolysis within endosome associated with antigen processing and presentation	biological_process
+GO:0002500	proteolysis within lysosome associated with antigen processing and presentation	biological_process
+GO:0002501	peptide antigen assembly with MHC protein complex	biological_process
+GO:0002502	peptide antigen assembly with MHC class I protein complex	biological_process
+GO:0002503	peptide antigen assembly with MHC class II protein complex	biological_process
+GO:0002504	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	biological_process
+GO:0002505	antigen processing and presentation of polysaccharide antigen via MHC class II	biological_process
+GO:0002506	polysaccharide assembly with MHC class II protein complex	biological_process
+GO:0002507	tolerance induction	biological_process
+GO:0002508	central tolerance induction	biological_process
+GO:0002509	central tolerance induction to self antigen	biological_process
+GO:0002510	central B cell tolerance induction	biological_process
+GO:0002511	central B cell receptor editing	biological_process
+GO:0002512	central T cell tolerance induction	biological_process
+GO:0002513	tolerance induction to self antigen	biological_process
+GO:0002514	B cell tolerance induction	biological_process
+GO:0002515	B cell anergy	biological_process
+GO:0002516	B cell deletion	biological_process
+GO:0002517	T cell tolerance induction	biological_process
+GO:0002518	lymphocyte chemotaxis across high endothelial venule	biological_process
+GO:0002519	natural killer cell tolerance induction	biological_process
+GO:0002520	immune system development	biological_process
+GO:0002521	leukocyte differentiation	biological_process
+GO:0002522	leukocyte migration involved in immune response	biological_process
+GO:0002523	leukocyte migration involved in inflammatory response	biological_process
+GO:0002524	hypersensitivity	biological_process
+GO:0002536	respiratory burst involved in inflammatory response	biological_process
+GO:0002548	monocyte chemotaxis	biological_process
+GO:0002551	mast cell chemotaxis	biological_process
+GO:0002552	serotonin secretion by mast cell	biological_process
+GO:0002553	histamine secretion by mast cell	biological_process
+GO:0002556	serotonin secretion by basophil	biological_process
+GO:0002557	histamine secretion by basophil	biological_process
+GO:0002558	type I hypersensitivity mediated by mast cells	biological_process
+GO:0002559	type I hypersensitivity mediated by basophils	biological_process
+GO:0002560	basophil mediated immunity	biological_process
+GO:0002561	basophil degranulation	biological_process
+GO:0002562	somatic diversification of immune receptors via germline recombination within a single locus	biological_process
+GO:0002563	somatic diversification of immune receptors via alternate splicing	biological_process
+GO:0002564	alternate splicing of immunoglobulin genes	biological_process
+GO:0002565	somatic diversification of immune receptors via gene conversion	biological_process
+GO:0002566	somatic diversification of immune receptors via somatic mutation	biological_process
+GO:0002567	somatic diversification of FREP-based immune receptors	biological_process
+GO:0002568	somatic diversification of T cell receptor genes	biological_process
+GO:0002569	somatic diversification of immune receptors by N region addition	biological_process
+GO:0002570	somatic diversification of immunoglobulin genes by N region addition	biological_process
+GO:0002571	somatic diversification of T cell receptor genes by N region addition	biological_process
+GO:0002572	pro-T cell differentiation	biological_process
+GO:0002573	myeloid leukocyte differentiation	biological_process
+GO:0002574	thrombocyte differentiation	biological_process
+GO:0002575	basophil chemotaxis	biological_process
+GO:0002577	regulation of antigen processing and presentation	biological_process
+GO:0002578	negative regulation of antigen processing and presentation	biological_process
+GO:0002579	positive regulation of antigen processing and presentation	biological_process
+GO:0002580	regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	biological_process
+GO:0002581	negative regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	biological_process
+GO:0002582	positive regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	biological_process
+GO:0002583	regulation of antigen processing and presentation of peptide antigen	biological_process
+GO:0002584	negative regulation of antigen processing and presentation of peptide antigen	biological_process
+GO:0002585	positive regulation of antigen processing and presentation of peptide antigen	biological_process
+GO:0002586	regulation of antigen processing and presentation of peptide antigen via MHC class II	biological_process
+GO:0002587	negative regulation of antigen processing and presentation of peptide antigen via MHC class II	biological_process
+GO:0002588	positive regulation of antigen processing and presentation of peptide antigen via MHC class II	biological_process
+GO:0002589	regulation of antigen processing and presentation of peptide antigen via MHC class I	biological_process
+GO:0002590	negative regulation of antigen processing and presentation of peptide antigen via MHC class I	biological_process
+GO:0002591	positive regulation of antigen processing and presentation of peptide antigen via MHC class I	biological_process
+GO:0002592	regulation of antigen processing and presentation via MHC class Ib	biological_process
+GO:0002593	negative regulation of antigen processing and presentation via MHC class Ib	biological_process
+GO:0002594	positive regulation of antigen processing and presentation via MHC class Ib	biological_process
+GO:0002595	regulation of antigen processing and presentation of peptide antigen via MHC class Ib	biological_process
+GO:0002596	negative regulation of antigen processing and presentation of peptide antigen via MHC class Ib	biological_process
+GO:0002597	positive regulation of antigen processing and presentation of peptide antigen via MHC class Ib	biological_process
+GO:0002598	regulation of antigen processing and presentation of lipid antigen via MHC class Ib	biological_process
+GO:0002599	negative regulation of antigen processing and presentation of lipid antigen via MHC class Ib	biological_process
+GO:0002600	positive regulation of antigen processing and presentation of lipid antigen via MHC class Ib	biological_process
+GO:0002601	regulation of antigen processing and presentation of polysaccharide antigen via MHC class II	biological_process
+GO:0002602	negative regulation of antigen processing and presentation of polysaccharide antigen via MHC class II	biological_process
+GO:0002603	positive regulation of antigen processing and presentation of polysaccharide antigen via MHC class II	biological_process
+GO:0002604	regulation of dendritic cell antigen processing and presentation	biological_process
+GO:0002605	negative regulation of dendritic cell antigen processing and presentation	biological_process
+GO:0002606	positive regulation of dendritic cell antigen processing and presentation	biological_process
+GO:0002607	regulation of myeloid dendritic cell antigen processing and presentation	biological_process
+GO:0002608	negative regulation of myeloid dendritic cell antigen processing and presentation	biological_process
+GO:0002609	positive regulation of myeloid dendritic cell antigen processing and presentation	biological_process
+GO:0002610	regulation of plasmacytoid dendritic cell antigen processing and presentation	biological_process
+GO:0002611	negative regulation of plasmacytoid dendritic cell antigen processing and presentation	biological_process
+GO:0002612	positive regulation of plasmacytoid dendritic cell antigen processing and presentation	biological_process
+GO:0002613	regulation of monocyte antigen processing and presentation	biological_process
+GO:0002614	negative regulation of monocyte antigen processing and presentation	biological_process
+GO:0002615	positive regulation of monocyte antigen processing and presentation	biological_process
+GO:0002616	regulation of macrophage antigen processing and presentation	biological_process
+GO:0002617	negative regulation of macrophage antigen processing and presentation	biological_process
+GO:0002618	positive regulation of macrophage antigen processing and presentation	biological_process
+GO:0002619	regulation of non-professional antigen presenting cell antigen processing and presentation	biological_process
+GO:0002620	negative regulation of non-professional antigen presenting cell antigen processing and presentation	biological_process
+GO:0002621	positive regulation of non-professional antigen presenting cell antigen processing and presentation	biological_process
+GO:0002622	regulation of B cell antigen processing and presentation	biological_process
+GO:0002623	negative regulation of B cell antigen processing and presentation	biological_process
+GO:0002624	positive regulation of B cell antigen processing and presentation	biological_process
+GO:0002625	regulation of T cell antigen processing and presentation	biological_process
+GO:0002626	negative regulation of T cell antigen processing and presentation	biological_process
+GO:0002627	positive regulation of T cell antigen processing and presentation	biological_process
+GO:0002628	regulation of proteolysis associated with antigen processing and presentation	biological_process
+GO:0002629	negative regulation of proteolysis associated with antigen processing and presentation	biological_process
+GO:0002630	positive regulation of proteolysis associated with antigen processing and presentation	biological_process
+GO:0002631	regulation of granuloma formation	biological_process
+GO:0002632	negative regulation of granuloma formation	biological_process
+GO:0002633	positive regulation of granuloma formation	biological_process
+GO:0002634	regulation of germinal center formation	biological_process
+GO:0002635	negative regulation of germinal center formation	biological_process
+GO:0002636	positive regulation of germinal center formation	biological_process
+GO:0002637	regulation of immunoglobulin production	biological_process
+GO:0002638	negative regulation of immunoglobulin production	biological_process
+GO:0002639	positive regulation of immunoglobulin production	biological_process
+GO:0002640	regulation of immunoglobulin biosynthetic process	biological_process
+GO:0002641	negative regulation of immunoglobulin biosynthetic process	biological_process
+GO:0002642	positive regulation of immunoglobulin biosynthetic process	biological_process
+GO:0002643	regulation of tolerance induction	biological_process
+GO:0002644	negative regulation of tolerance induction	biological_process
+GO:0002645	positive regulation of tolerance induction	biological_process
+GO:0002646	regulation of central tolerance induction	biological_process
+GO:0002647	negative regulation of central tolerance induction	biological_process
+GO:0002648	positive regulation of central tolerance induction	biological_process
+GO:0002649	regulation of tolerance induction to self antigen	biological_process
+GO:0002650	negative regulation of tolerance induction to self antigen	biological_process
+GO:0002651	positive regulation of tolerance induction to self antigen	biological_process
+GO:0002652	regulation of tolerance induction dependent upon immune response	biological_process
+GO:0002653	negative regulation of tolerance induction dependent upon immune response	biological_process
+GO:0002654	positive regulation of tolerance induction dependent upon immune response	biological_process
+GO:0002655	regulation of tolerance induction to nonself antigen	biological_process
+GO:0002656	negative regulation of tolerance induction to nonself antigen	biological_process
+GO:0002657	positive regulation of tolerance induction to nonself antigen	biological_process
+GO:0002658	regulation of peripheral tolerance induction	biological_process
+GO:0002659	negative regulation of peripheral tolerance induction	biological_process
+GO:0002660	positive regulation of peripheral tolerance induction	biological_process
+GO:0002661	regulation of B cell tolerance induction	biological_process
+GO:0002662	negative regulation of B cell tolerance induction	biological_process
+GO:0002663	positive regulation of B cell tolerance induction	biological_process
+GO:0002664	regulation of T cell tolerance induction	biological_process
+GO:0002665	negative regulation of T cell tolerance induction	biological_process
+GO:0002666	positive regulation of T cell tolerance induction	biological_process
+GO:0002667	regulation of T cell anergy	biological_process
+GO:0002668	negative regulation of T cell anergy	biological_process
+GO:0002669	positive regulation of T cell anergy	biological_process
+GO:0002670	regulation of B cell anergy	biological_process
+GO:0002671	negative regulation of B cell anergy	biological_process
+GO:0002672	positive regulation of B cell anergy	biological_process
+GO:0002679	respiratory burst involved in defense response	biological_process
+GO:0002680	pro-T cell lineage commitment	biological_process
+GO:0002681	somatic recombination of T cell receptor gene segments	biological_process
+GO:0002682	regulation of immune system process	biological_process
+GO:0002683	negative regulation of immune system process	biological_process
+GO:0002684	positive regulation of immune system process	biological_process
+GO:0002685	regulation of leukocyte migration	biological_process
+GO:0002686	negative regulation of leukocyte migration	biological_process
+GO:0002687	positive regulation of leukocyte migration	biological_process
+GO:0002688	regulation of leukocyte chemotaxis	biological_process
+GO:0002689	negative regulation of leukocyte chemotaxis	biological_process
+GO:0002690	positive regulation of leukocyte chemotaxis	biological_process
+GO:0002691	regulation of cellular extravasation	biological_process
+GO:0002692	negative regulation of cellular extravasation	biological_process
+GO:0002693	positive regulation of cellular extravasation	biological_process
+GO:0002694	regulation of leukocyte activation	biological_process
+GO:0002695	negative regulation of leukocyte activation	biological_process
+GO:0002696	positive regulation of leukocyte activation	biological_process
+GO:0002697	regulation of immune effector process	biological_process
+GO:0002698	negative regulation of immune effector process	biological_process
+GO:0002699	positive regulation of immune effector process	biological_process
+GO:0002700	regulation of production of molecular mediator of immune response	biological_process
+GO:0002701	negative regulation of production of molecular mediator of immune response	biological_process
+GO:0002702	positive regulation of production of molecular mediator of immune response	biological_process
+GO:0002703	regulation of leukocyte mediated immunity	biological_process
+GO:0002704	negative regulation of leukocyte mediated immunity	biological_process
+GO:0002705	positive regulation of leukocyte mediated immunity	biological_process
+GO:0002706	regulation of lymphocyte mediated immunity	biological_process
+GO:0002707	negative regulation of lymphocyte mediated immunity	biological_process
+GO:0002708	positive regulation of lymphocyte mediated immunity	biological_process
+GO:0002709	regulation of T cell mediated immunity	biological_process
+GO:0002710	negative regulation of T cell mediated immunity	biological_process
+GO:0002711	positive regulation of T cell mediated immunity	biological_process
+GO:0002712	regulation of B cell mediated immunity	biological_process
+GO:0002713	negative regulation of B cell mediated immunity	biological_process
+GO:0002714	positive regulation of B cell mediated immunity	biological_process
+GO:0002715	regulation of natural killer cell mediated immunity	biological_process
+GO:0002716	negative regulation of natural killer cell mediated immunity	biological_process
+GO:0002717	positive regulation of natural killer cell mediated immunity	biological_process
+GO:0002718	regulation of cytokine production involved in immune response	biological_process
+GO:0002719	negative regulation of cytokine production involved in immune response	biological_process
+GO:0002720	positive regulation of cytokine production involved in immune response	biological_process
+GO:0002721	regulation of B cell cytokine production	biological_process
+GO:0002722	negative regulation of B cell cytokine production	biological_process
+GO:0002723	positive regulation of B cell cytokine production	biological_process
+GO:0002724	regulation of T cell cytokine production	biological_process
+GO:0002725	negative regulation of T cell cytokine production	biological_process
+GO:0002726	positive regulation of T cell cytokine production	biological_process
+GO:0002727	regulation of natural killer cell cytokine production	biological_process
+GO:0002728	negative regulation of natural killer cell cytokine production	biological_process
+GO:0002729	positive regulation of natural killer cell cytokine production	biological_process
+GO:0002730	regulation of dendritic cell cytokine production	biological_process
+GO:0002731	negative regulation of dendritic cell cytokine production	biological_process
+GO:0002732	positive regulation of dendritic cell cytokine production	biological_process
+GO:0002733	regulation of myeloid dendritic cell cytokine production	biological_process
+GO:0002734	negative regulation of myeloid dendritic cell cytokine production	biological_process
+GO:0002735	positive regulation of myeloid dendritic cell cytokine production	biological_process
+GO:0002736	regulation of plasmacytoid dendritic cell cytokine production	biological_process
+GO:0002737	negative regulation of plasmacytoid dendritic cell cytokine production	biological_process
+GO:0002738	positive regulation of plasmacytoid dendritic cell cytokine production	biological_process
+GO:0002739	regulation of cytokine secretion involved in immune response	biological_process
+GO:0002740	negative regulation of cytokine secretion involved in immune response	biological_process
+GO:0002741	positive regulation of cytokine secretion involved in immune response	biological_process
+GO:0002742	regulation of cytokine biosynthetic process involved in immune response	biological_process
+GO:0002743	negative regulation of cytokine biosynthetic process involved in immune response	biological_process
+GO:0002744	positive regulation of cytokine biosynthetic process involved in immune response	biological_process
+GO:0002745	antigen processing and presentation initiated by receptor mediated uptake of antigen	biological_process
+GO:0002746	antigen processing and presentation following pinocytosis	biological_process
+GO:0002747	antigen processing and presentation following phagocytosis	biological_process
+GO:0002748	antigen processing and presentation initiated by pattern recognition receptor mediated uptake of antigen	biological_process
+GO:0002749	antigen processing and presentation initiated by toll-like receptor mediated phagocytosis of antigen	biological_process
+GO:0002750	antigen processing and presentation following macropinocytosis	biological_process
+GO:0002751	antigen processing and presentation following receptor mediated endocytosis	biological_process
+GO:0002752	cell surface pattern recognition receptor signaling pathway	biological_process
+GO:0002753	cytoplasmic pattern recognition receptor signaling pathway	biological_process
+GO:0002754	intracellular vesicle pattern recognition receptor signaling pathway	biological_process
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway	biological_process
+GO:0002756	MyD88-independent toll-like receptor signaling pathway	biological_process
+GO:0002757	immune response-activating signal transduction	biological_process
+GO:0002758	innate immune response-activating signal transduction	biological_process
+GO:0002759	regulation of antimicrobial humoral response	biological_process
+GO:0002760	positive regulation of antimicrobial humoral response	biological_process
+GO:0002761	regulation of myeloid leukocyte differentiation	biological_process
+GO:0002762	negative regulation of myeloid leukocyte differentiation	biological_process
+GO:0002763	positive regulation of myeloid leukocyte differentiation	biological_process
+GO:0002764	immune response-regulating signaling pathway	biological_process
+GO:0002765	immune response-inhibiting signal transduction	biological_process
+GO:0002766	innate immune response-inhibiting signal transduction	biological_process
+GO:0002767	immune response-inhibiting cell surface receptor signaling pathway	biological_process
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	biological_process
+GO:0002769	natural killer cell inhibitory signaling pathway	biological_process
+GO:0002770	T cell inhibitory signaling pathway	biological_process
+GO:0002771	inhibitory killer cell immunoglobulin-like receptor signaling pathway	biological_process
+GO:0002772	inhibitory C-type lectin receptor signaling pathway	biological_process
+GO:0002773	B cell inhibitory signaling pathway	biological_process
+GO:0002774	Fc receptor mediated inhibitory signaling pathway	biological_process
+GO:0002775	antimicrobial peptide production	biological_process
+GO:0002776	antimicrobial peptide secretion	biological_process
+GO:0002777	antimicrobial peptide biosynthetic process	biological_process
+GO:0002778	antibacterial peptide production	biological_process
+GO:0002779	antibacterial peptide secretion	biological_process
+GO:0002780	antibacterial peptide biosynthetic process	biological_process
+GO:0002781	antifungal peptide production	biological_process
+GO:0002782	antifungal peptide secretion	biological_process
+GO:0002783	antifungal peptide biosynthetic process	biological_process
+GO:0002784	regulation of antimicrobial peptide production	biological_process
+GO:0002785	negative regulation of antimicrobial peptide production	biological_process
+GO:0002786	regulation of antibacterial peptide production	biological_process
+GO:0002787	negative regulation of antibacterial peptide production	biological_process
+GO:0002788	regulation of antifungal peptide production	biological_process
+GO:0002789	negative regulation of antifungal peptide production	biological_process
+GO:0002794	regulation of antimicrobial peptide secretion	biological_process
+GO:0002795	negative regulation of antimicrobial peptide secretion	biological_process
+GO:0002796	positive regulation of antimicrobial peptide secretion	biological_process
+GO:0002797	regulation of antibacterial peptide secretion	biological_process
+GO:0002798	negative regulation of antibacterial peptide secretion	biological_process
+GO:0002799	positive regulation of antibacterial peptide secretion	biological_process
+GO:0002800	regulation of antifungal peptide secretion	biological_process
+GO:0002801	negative regulation of antifungal peptide secretion	biological_process
+GO:0002802	positive regulation of antifungal peptide secretion	biological_process
+GO:0002803	positive regulation of antibacterial peptide production	biological_process
+GO:0002804	positive regulation of antifungal peptide production	biological_process
+GO:0002805	regulation of antimicrobial peptide biosynthetic process	biological_process
+GO:0002806	negative regulation of antimicrobial peptide biosynthetic process	biological_process
+GO:0002807	positive regulation of antimicrobial peptide biosynthetic process	biological_process
+GO:0002808	regulation of antibacterial peptide biosynthetic process	biological_process
+GO:0002809	negative regulation of antibacterial peptide biosynthetic process	biological_process
+GO:0002810	regulation of antifungal peptide biosynthetic process	biological_process
+GO:0002811	negative regulation of antifungal peptide biosynthetic process	biological_process
+GO:0002812	biosynthetic process of antibacterial peptides active against Gram-negative bacteria	biological_process
+GO:0002813	regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	biological_process
+GO:0002814	negative regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	biological_process
+GO:0002815	biosynthetic process of antibacterial peptides active against Gram-positive bacteria	biological_process
+GO:0002816	regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	biological_process
+GO:0002817	negative regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	biological_process
+GO:0002819	regulation of adaptive immune response	biological_process
+GO:0002820	negative regulation of adaptive immune response	biological_process
+GO:0002821	positive regulation of adaptive immune response	biological_process
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	biological_process
+GO:0002823	negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	biological_process
+GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	biological_process
+GO:0002825	regulation of T-helper 1 type immune response	biological_process
+GO:0002826	negative regulation of T-helper 1 type immune response	biological_process
+GO:0002827	positive regulation of T-helper 1 type immune response	biological_process
+GO:0002828	regulation of type 2 immune response	biological_process
+GO:0002829	negative regulation of type 2 immune response	biological_process
+GO:0002830	positive regulation of type 2 immune response	biological_process
+GO:0002837	regulation of immune response to tumor cell	biological_process
+GO:0002838	negative regulation of immune response to tumor cell	biological_process
+GO:0002839	positive regulation of immune response to tumor cell	biological_process
+GO:0002840	regulation of T cell mediated immune response to tumor cell	biological_process
+GO:0002841	negative regulation of T cell mediated immune response to tumor cell	biological_process
+GO:0002842	positive regulation of T cell mediated immune response to tumor cell	biological_process
+GO:0002843	regulation of tolerance induction to tumor cell	biological_process
+GO:0002844	negative regulation of tolerance induction to tumor cell	biological_process
+GO:0002845	positive regulation of tolerance induction to tumor cell	biological_process
+GO:0002846	regulation of T cell tolerance induction to tumor cell	biological_process
+GO:0002847	negative regulation of T cell tolerance induction to tumor cell	biological_process
+GO:0002848	positive regulation of T cell tolerance induction to tumor cell	biological_process
+GO:0002849	regulation of peripheral T cell tolerance induction	biological_process
+GO:0002850	negative regulation of peripheral T cell tolerance induction	biological_process
+GO:0002851	positive regulation of peripheral T cell tolerance induction	biological_process
+GO:0002852	regulation of T cell mediated cytotoxicity directed against tumor cell target	biological_process
+GO:0002853	negative regulation of T cell mediated cytotoxicity directed against tumor cell target	biological_process
+GO:0002854	positive regulation of T cell mediated cytotoxicity directed against tumor cell target	biological_process
+GO:0002855	regulation of natural killer cell mediated immune response to tumor cell	biological_process
+GO:0002856	negative regulation of natural killer cell mediated immune response to tumor cell	biological_process
+GO:0002857	positive regulation of natural killer cell mediated immune response to tumor cell	biological_process
+GO:0002858	regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	biological_process
+GO:0002859	negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	biological_process
+GO:0002860	positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	biological_process
+GO:0002861	regulation of inflammatory response to antigenic stimulus	biological_process
+GO:0002862	negative regulation of inflammatory response to antigenic stimulus	biological_process
+GO:0002863	positive regulation of inflammatory response to antigenic stimulus	biological_process
+GO:0002864	regulation of acute inflammatory response to antigenic stimulus	biological_process
+GO:0002865	negative regulation of acute inflammatory response to antigenic stimulus	biological_process
+GO:0002866	positive regulation of acute inflammatory response to antigenic stimulus	biological_process
+GO:0002867	regulation of B cell deletion	biological_process
+GO:0002868	negative regulation of B cell deletion	biological_process
+GO:0002869	positive regulation of B cell deletion	biological_process
+GO:0002870	T cell anergy	biological_process
+GO:0002871	regulation of natural killer cell tolerance induction	biological_process
+GO:0002872	negative regulation of natural killer cell tolerance induction	biological_process
+GO:0002873	positive regulation of natural killer cell tolerance induction	biological_process
+GO:0002874	regulation of chronic inflammatory response to antigenic stimulus	biological_process
+GO:0002875	negative regulation of chronic inflammatory response to antigenic stimulus	biological_process
+GO:0002876	positive regulation of chronic inflammatory response to antigenic stimulus	biological_process
+GO:0002883	regulation of hypersensitivity	biological_process
+GO:0002884	negative regulation of hypersensitivity	biological_process
+GO:0002885	positive regulation of hypersensitivity	biological_process
+GO:0002886	regulation of myeloid leukocyte mediated immunity	biological_process
+GO:0002887	negative regulation of myeloid leukocyte mediated immunity	biological_process
+GO:0002888	positive regulation of myeloid leukocyte mediated immunity	biological_process
+GO:0002889	regulation of immunoglobulin mediated immune response	biological_process
+GO:0002890	negative regulation of immunoglobulin mediated immune response	biological_process
+GO:0002891	positive regulation of immunoglobulin mediated immune response	biological_process
+GO:0002892	regulation of type II hypersensitivity	biological_process
+GO:0002893	negative regulation of type II hypersensitivity	biological_process
+GO:0002894	positive regulation of type II hypersensitivity	biological_process
+GO:0002895	regulation of central B cell tolerance induction	biological_process
+GO:0002896	negative regulation of central B cell tolerance induction	biological_process
+GO:0002897	positive regulation of central B cell tolerance induction	biological_process
+GO:0002898	regulation of central B cell deletion	biological_process
+GO:0002899	negative regulation of central B cell deletion	biological_process
+GO:0002900	positive regulation of central B cell deletion	biological_process
+GO:0002901	mature B cell apoptotic process	biological_process
+GO:0002905	regulation of mature B cell apoptotic process	biological_process
+GO:0002906	negative regulation of mature B cell apoptotic process	biological_process
+GO:0002907	positive regulation of mature B cell apoptotic process	biological_process
+GO:0002908	regulation of peripheral B cell deletion	biological_process
+GO:0002909	negative regulation of peripheral B cell deletion	biological_process
+GO:0002910	positive regulation of peripheral B cell deletion	biological_process
+GO:0002911	regulation of lymphocyte anergy	biological_process
+GO:0002912	negative regulation of lymphocyte anergy	biological_process
+GO:0002913	positive regulation of lymphocyte anergy	biological_process
+GO:0002914	regulation of central B cell anergy	biological_process
+GO:0002915	negative regulation of central B cell anergy	biological_process
+GO:0002916	positive regulation of central B cell anergy	biological_process
+GO:0002917	regulation of peripheral B cell anergy	biological_process
+GO:0002918	negative regulation of peripheral B cell anergy	biological_process
+GO:0002919	positive regulation of peripheral B cell anergy	biological_process
+GO:0002920	regulation of humoral immune response	biological_process
+GO:0002921	negative regulation of humoral immune response	biological_process
+GO:0002922	positive regulation of humoral immune response	biological_process
+GO:0002923	regulation of humoral immune response mediated by circulating immunoglobulin	biological_process
+GO:0002924	negative regulation of humoral immune response mediated by circulating immunoglobulin	biological_process
+GO:0002925	positive regulation of humoral immune response mediated by circulating immunoglobulin	biological_process
+GO:0019730	antimicrobial humoral response	biological_process
+GO:0006956	complement activation	biological_process
+GO:0006924	activation-induced cell death of T cells	biological_process
+GO:0006955	immune response	biological_process
+GO:0006957	complement activation, alternative pathway	biological_process
+GO:0006958	complement activation, classical pathway	biological_process
+GO:0006959	humoral immune response	biological_process
+GO:0006962	male-specific antibacterial humoral response	biological_process
+GO:0006963	positive regulation of antibacterial peptide biosynthetic process	biological_process
+GO:0006964	positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	biological_process
+GO:0006965	positive regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria	biological_process
+GO:0006967	positive regulation of antifungal peptide biosynthetic process	biological_process
+GO:0048535	lymph node development	biological_process
+GO:0048542	lymph gland development	biological_process
+GO:0007516	hemocyte development	biological_process
+GO:0042267	natural killer cell mediated cytotoxicity	biological_process
+GO:0008228	opsonization	biological_process
+GO:0008348	negative regulation of antimicrobial humoral response	biological_process
+GO:0009616	virus induced gene silencing	biological_process
+GO:0009626	plant-type hypersensitive response	biological_process
+GO:0009627	systemic acquired resistance	biological_process
+GO:0009682	induced systemic resistance	biological_process
+GO:0009689	induction of phytoalexin biosynthetic process	biological_process
+GO:0009814	defense response, incompatible interaction	biological_process
+GO:0009816	defense response to bacterium, incompatible interaction	biological_process
+GO:0009817	defense response to fungus, incompatible interaction	biological_process
+GO:0009818	defense response to protozoan, incompatible interaction	biological_process
+GO:0009861	jasmonic acid and ethylene-dependent systemic resistance	biological_process
+GO:0009862	systemic acquired resistance, salicylic acid mediated signaling pathway	biological_process
+GO:0009864	induced systemic resistance, jasmonic acid mediated signaling pathway	biological_process
+GO:0009866	induced systemic resistance, ethylene mediated signaling pathway	biological_process
+GO:0009868	jasmonic acid and ethylene-dependent systemic resistance, jasmonic acid mediated signaling pathway	biological_process
+GO:0009870	defense response signaling pathway, resistance gene-dependent	biological_process
+GO:0009871	jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway	biological_process
+GO:0010112	regulation of systemic acquired resistance	biological_process
+GO:0010113	negative regulation of systemic acquired resistance	biological_process
+GO:0010204	defense response signaling pathway, resistance gene-independent	biological_process
+GO:0010363	regulation of plant-type hypersensitive response	biological_process
+GO:0010724	regulation of definitive erythrocyte differentiation	biological_process
+GO:0010725	regulation of primitive erythrocyte differentiation	biological_process
+GO:0010758	regulation of macrophage chemotaxis	biological_process
+GO:0010759	positive regulation of macrophage chemotaxis	biological_process
+GO:0010760	negative regulation of macrophage chemotaxis	biological_process
+GO:0010818	T cell chemotaxis	biological_process
+GO:0010819	regulation of T cell chemotaxis	biological_process
+GO:0010820	positive regulation of T cell chemotaxis	biological_process
+GO:0010931	macrophage tolerance induction	biological_process
+GO:0010932	regulation of macrophage tolerance induction	biological_process
+GO:0010933	positive regulation of macrophage tolerance induction	biological_process
+GO:0010934	macrophage cytokine production	biological_process
+GO:0010935	regulation of macrophage cytokine production	biological_process
+GO:0010936	negative regulation of macrophage cytokine production	biological_process
+GO:0014004	microglia differentiation	biological_process
+GO:0014005	microglia development	biological_process
+GO:0014006	regulation of microglia differentiation	biological_process
+GO:0014007	negative regulation of microglia differentiation	biological_process
+GO:0014008	positive regulation of microglia differentiation	biological_process
+GO:0016064	immunoglobulin mediated immune response	biological_process
+GO:0016068	type I hypersensitivity	biological_process
+GO:0016445	somatic diversification of immunoglobulins	biological_process
+GO:0016446	somatic hypermutation of immunoglobulin genes	biological_process
+GO:0016447	somatic recombination of immunoglobulin gene segments	biological_process
+GO:0019724	B cell mediated immunity	biological_process
+GO:0019731	antibacterial humoral response	biological_process
+GO:0019732	antifungal humoral response	biological_process
+GO:0019882	antigen processing and presentation	biological_process
+GO:0019883	antigen processing and presentation of endogenous antigen	biological_process
+GO:0019884	antigen processing and presentation of exogenous antigen	biological_process
+GO:0019885	antigen processing and presentation of endogenous peptide antigen via MHC class I	biological_process
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	biological_process
+GO:0050852	T cell receptor signaling pathway	biological_process
+GO:0050856	regulation of T cell receptor signaling pathway	biological_process
+GO:0050862	positive regulation of T cell receptor signaling pathway	biological_process
+GO:0023022	termination of T cell signal transduction	biological_process
+GO:0030097	hemopoiesis	biological_process
+GO:0030098	lymphocyte differentiation	biological_process
+GO:0030099	myeloid cell differentiation	biological_process
+GO:0030101	natural killer cell activation	biological_process
+GO:0030183	B cell differentiation	biological_process
+GO:0030217	T cell differentiation	biological_process
+GO:0030218	erythrocyte differentiation	biological_process
+GO:0030219	megakaryocyte differentiation	biological_process
+GO:0030220	platelet formation	biological_process
+GO:0030221	basophil differentiation	biological_process
+GO:0030222	eosinophil differentiation	biological_process
+GO:0030223	neutrophil differentiation	biological_process
+GO:0030224	monocyte differentiation	biological_process
+GO:0030225	macrophage differentiation	biological_process
+GO:0030316	osteoclast differentiation	biological_process
+GO:0030449	regulation of complement activation	biological_process
+GO:0030450	regulation of complement activation, classical pathway	biological_process
+GO:0030451	regulation of complement activation, alternative pathway	biological_process
+GO:0030593	neutrophil chemotaxis	biological_process
+GO:0030595	leukocyte chemotaxis	biological_process
+GO:0030683	evasion or tolerance by virus of host immune response	biological_process
+GO:0030851	granulocyte differentiation	biological_process
+GO:0030852	regulation of granulocyte differentiation	biological_process
+GO:0030853	negative regulation of granulocyte differentiation	biological_process
+GO:0030854	positive regulation of granulocyte differentiation	biological_process
+GO:0030885	regulation of myeloid dendritic cell activation	biological_process
+GO:0030886	negative regulation of myeloid dendritic cell activation	biological_process
+GO:0030887	positive regulation of myeloid dendritic cell activation	biological_process
+GO:0030888	regulation of B cell proliferation	biological_process
+GO:0030889	negative regulation of B cell proliferation	biological_process
+GO:0030890	positive regulation of B cell proliferation	biological_process
+GO:0031294	lymphocyte costimulation	biological_process
+GO:0031295	T cell costimulation	biological_process
+GO:0031296	B cell costimulation	biological_process
+GO:0032260	response to jasmonic acid stimulus involved in jasmonic acid and ethylene-dependent systemic resistance	biological_process
+GO:0032762	mast cell cytokine production	biological_process
+GO:0032763	regulation of mast cell cytokine production	biological_process
+GO:0032764	negative regulation of mast cell cytokine production	biological_process
+GO:0032765	positive regulation of mast cell cytokine production	biological_process
+GO:0032814	regulation of natural killer cell activation	biological_process
+GO:0032815	negative regulation of natural killer cell activation	biological_process
+GO:0032816	positive regulation of natural killer cell activation	biological_process
+GO:0032817	regulation of natural killer cell proliferation	biological_process
+GO:0032818	negative regulation of natural killer cell proliferation	biological_process
+GO:0032819	positive regulation of natural killer cell proliferation	biological_process
+GO:0032820	regulation of natural killer cell proliferation involved in immune response	biological_process
+GO:0032821	negative regulation of natural killer cell proliferation involved in immune response	biological_process
+GO:0032822	positive regulation of natural killer cell proliferation involved in immune response	biological_process
+GO:0032823	regulation of natural killer cell differentiation	biological_process
+GO:0032824	negative regulation of natural killer cell differentiation	biological_process
+GO:0032825	positive regulation of natural killer cell differentiation	biological_process
+GO:0032826	regulation of natural killer cell differentiation involved in immune response	biological_process
+GO:0032827	negative regulation of natural killer cell differentiation involved in immune response	biological_process
+GO:0032828	positive regulation of natural killer cell differentiation involved in immune response	biological_process
+GO:0032829	regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	biological_process
+GO:0032830	negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	biological_process
+GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation	biological_process
+GO:0032832	regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	biological_process
+GO:0032833	negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	biological_process
+GO:0032834	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	biological_process
+GO:0033003	regulation of mast cell activation	biological_process
+GO:0033004	negative regulation of mast cell activation	biological_process
+GO:0033005	positive regulation of mast cell activation	biological_process
+GO:0033006	regulation of mast cell activation involved in immune response	biological_process
+GO:0033007	negative regulation of mast cell activation involved in immune response	biological_process
+GO:0033008	positive regulation of mast cell activation involved in immune response	biological_process
+GO:0033023	mast cell homeostasis	biological_process
+GO:0033024	mast cell apoptotic process	biological_process
+GO:0033025	regulation of mast cell apoptotic process	biological_process
+GO:0033026	negative regulation of mast cell apoptotic process	biological_process
+GO:0033027	positive regulation of mast cell apoptotic process	biological_process
+GO:0033029	regulation of neutrophil apoptotic process	biological_process
+GO:0033030	negative regulation of neutrophil apoptotic process	biological_process
+GO:0033031	positive regulation of neutrophil apoptotic process	biological_process
+GO:0033077	T cell differentiation in thymus	biological_process
+GO:0033078	extrathymic T cell differentiation	biological_process
+GO:0033079	immature T cell proliferation	biological_process
+GO:0033080	immature T cell proliferation in thymus	biological_process
+GO:0033081	regulation of T cell differentiation in thymus	biological_process
+GO:0033082	regulation of extrathymic T cell differentiation	biological_process
+GO:0033083	regulation of immature T cell proliferation	biological_process
+GO:0033084	regulation of immature T cell proliferation in thymus	biological_process
+GO:0033085	negative regulation of T cell differentiation in thymus	biological_process
+GO:0033086	negative regulation of extrathymic T cell differentiation	biological_process
+GO:0033087	negative regulation of immature T cell proliferation	biological_process
+GO:0033088	negative regulation of immature T cell proliferation in thymus	biological_process
+GO:0033089	positive regulation of T cell differentiation in thymus	biological_process
+GO:0033090	positive regulation of extrathymic T cell differentiation	biological_process
+GO:0033091	positive regulation of immature T cell proliferation	biological_process
+GO:0033092	positive regulation of immature T cell proliferation in thymus	biological_process
+GO:0033151	V(D)J recombination	biological_process
+GO:0033152	immunoglobulin V(D)J recombination	biological_process
+GO:0033153	T cell receptor V(D)J recombination	biological_process
+GO:0033660	negative regulation by symbiont of host resistance gene-dependent defense response	biological_process
+GO:0033661	negative regulation by symbiont of defense-related host reactive oxygen species production	biological_process
+GO:0034051	negative regulation of plant-type hypersensitive response	biological_process
+GO:0034052	positive regulation of plant-type hypersensitive response	biological_process
+GO:0034101	erythrocyte homeostasis	biological_process
+GO:0034102	erythrocyte clearance	biological_process
+GO:0034106	regulation of erythrocyte clearance	biological_process
+GO:0034107	negative regulation of erythrocyte clearance	biological_process
+GO:0034108	positive regulation of erythrocyte clearance	biological_process
+GO:0034121	regulation of toll-like receptor signaling pathway	biological_process
+GO:0034122	negative regulation of toll-like receptor signaling pathway	biological_process
+GO:0034123	positive regulation of toll-like receptor signaling pathway	biological_process
+GO:0034124	regulation of MyD88-dependent toll-like receptor signaling pathway	biological_process
+GO:0034125	negative regulation of MyD88-dependent toll-like receptor signaling pathway	biological_process
+GO:0034126	positive regulation of MyD88-dependent toll-like receptor signaling pathway	biological_process
+GO:0034127	regulation of MyD88-independent toll-like receptor signaling pathway	biological_process
+GO:0034128	negative regulation of MyD88-independent toll-like receptor signaling pathway	biological_process
+GO:0034129	positive regulation of MyD88-independent toll-like receptor signaling pathway	biological_process
+GO:0034130	toll-like receptor 1 signaling pathway	biological_process
+GO:0034131	regulation of toll-like receptor 1 signaling pathway	biological_process
+GO:0034132	negative regulation of toll-like receptor 1 signaling pathway	biological_process
+GO:0034133	positive regulation of toll-like receptor 1 signaling pathway	biological_process
+GO:0034134	toll-like receptor 2 signaling pathway	biological_process
+GO:0034135	regulation of toll-like receptor 2 signaling pathway	biological_process
+GO:0034136	negative regulation of toll-like receptor 2 signaling pathway	biological_process
+GO:0034137	positive regulation of toll-like receptor 2 signaling pathway	biological_process
+GO:0034138	toll-like receptor 3 signaling pathway	biological_process
+GO:0034139	regulation of toll-like receptor 3 signaling pathway	biological_process
+GO:0034140	negative regulation of toll-like receptor 3 signaling pathway	biological_process
+GO:0034141	positive regulation of toll-like receptor 3 signaling pathway	biological_process
+GO:0034142	toll-like receptor 4 signaling pathway	biological_process
+GO:0034143	regulation of toll-like receptor 4 signaling pathway	biological_process
+GO:0034144	negative regulation of toll-like receptor 4 signaling pathway	biological_process
+GO:0034145	positive regulation of toll-like receptor 4 signaling pathway	biological_process
+GO:0034146	toll-like receptor 5 signaling pathway	biological_process
+GO:0034147	regulation of toll-like receptor 5 signaling pathway	biological_process
+GO:0034148	negative regulation of toll-like receptor 5 signaling pathway	biological_process
+GO:0034149	positive regulation of toll-like receptor 5 signaling pathway	biological_process
+GO:0034150	toll-like receptor 6 signaling pathway	biological_process
+GO:0034151	regulation of toll-like receptor 6 signaling pathway	biological_process
+GO:0034152	negative regulation of toll-like receptor 6 signaling pathway	biological_process
+GO:0034153	positive regulation of toll-like receptor 6 signaling pathway	biological_process
+GO:0034154	toll-like receptor 7 signaling pathway	biological_process
+GO:0034155	regulation of toll-like receptor 7 signaling pathway	biological_process
+GO:0034156	negative regulation of toll-like receptor 7 signaling pathway	biological_process
+GO:0034157	positive regulation of toll-like receptor 7 signaling pathway	biological_process
+GO:0034158	toll-like receptor 8 signaling pathway	biological_process
+GO:0034159	regulation of toll-like receptor 8 signaling pathway	biological_process
+GO:0034160	negative regulation of toll-like receptor 8 signaling pathway	biological_process
+GO:0034161	positive regulation of toll-like receptor 8 signaling pathway	biological_process
+GO:0034162	toll-like receptor 9 signaling pathway	biological_process
+GO:0034163	regulation of toll-like receptor 9 signaling pathway	biological_process
+GO:0034164	negative regulation of toll-like receptor 9 signaling pathway	biological_process
+GO:0034165	positive regulation of toll-like receptor 9 signaling pathway	biological_process
+GO:0034166	toll-like receptor 10 signaling pathway	biological_process
+GO:0034167	regulation of toll-like receptor 10 signaling pathway	biological_process
+GO:0034168	negative regulation of toll-like receptor 10 signaling pathway	biological_process
+GO:0034169	positive regulation of toll-like receptor 10 signaling pathway	biological_process
+GO:0034170	toll-like receptor 11 signaling pathway	biological_process
+GO:0034171	regulation of toll-like receptor 11 signaling pathway	biological_process
+GO:0034172	negative regulation of toll-like receptor 11 signaling pathway	biological_process
+GO:0034173	positive regulation of toll-like receptor 11 signaling pathway	biological_process
+GO:0034174	toll-like receptor 12 signaling pathway	biological_process
+GO:0034175	regulation of toll-like receptor 12 signaling pathway	biological_process
+GO:0034176	negative regulation of toll-like receptor 12 signaling pathway	biological_process
+GO:0034177	positive regulation of toll-like receptor 12 signaling pathway	biological_process
+GO:0034178	toll-like receptor 13 signaling pathway	biological_process
+GO:0034179	regulation of toll-like receptor 13 signaling pathway	biological_process
+GO:0034180	negative regulation of toll-like receptor 13 signaling pathway	biological_process
+GO:0034181	positive regulation of toll-like receptor 13 signaling pathway	biological_process
+GO:0034340	response to type I interferon	biological_process
+GO:0034341	response to interferon-gamma	biological_process
+GO:0034342	response to type III interferon	biological_process
+GO:0035006	melanization defense response	biological_process
+GO:0035007	regulation of melanization defense response	biological_process
+GO:0035008	positive regulation of melanization defense response	biological_process
+GO:0035009	negative regulation of melanization defense response	biological_process
+GO:0035010	encapsulation of foreign target	biological_process
+GO:0035011	melanotic encapsulation of foreign target	biological_process
+GO:0035099	hemocyte migration	biological_process
+GO:0035162	embryonic hemopoiesis	biological_process
+GO:0035163	embryonic hemocyte differentiation	biological_process
+GO:0035164	embryonic plasmatocyte differentiation	biological_process
+GO:0035165	embryonic crystal cell differentiation	biological_process
+GO:0035166	post-embryonic hemopoiesis	biological_process
+GO:0035167	larval lymph gland hemopoiesis	biological_process
+GO:0035168	larval lymph gland hemocyte differentiation	biological_process
+GO:0035169	lymph gland plasmatocyte differentiation	biological_process
+GO:0035170	lymph gland crystal cell differentiation	biological_process
+GO:0035171	lamellocyte differentiation	biological_process
+GO:0035172	hemocyte proliferation	biological_process
+GO:0035203	regulation of lamellocyte differentiation	biological_process
+GO:0035204	negative regulation of lamellocyte differentiation	biological_process
+GO:0035205	positive regulation of lamellocyte differentiation	biological_process
+GO:0035206	regulation of hemocyte proliferation	biological_process
+GO:0035207	negative regulation of hemocyte proliferation	biological_process
+GO:0035208	positive regulation of hemocyte proliferation	biological_process
+GO:0035397	helper T cell enhancement of adaptive immune response	biological_process
+GO:0035398	helper T cell enhancement of T cell mediated immune response	biological_process
+GO:0035399	helper T cell enhancement of B cell mediated immune response	biological_process
+GO:0035419	activation of MAPK activity involved in innate immune response	biological_process
+GO:0035420	MAPK cascade involved in innate immune response	biological_process
+GO:0035421	activation of MAPKK activity involved in innate immune response	biological_process
+GO:0035422	activation of MAPKKK activity involved in innate immune response	biological_process
+GO:0035423	inactivation of MAPK activity involved in innate immune response	biological_process
+GO:0035424	MAPK import into nucleus involved in innate immune response	biological_process
+GO:0035603	fibroblast growth factor receptor signaling pathway involved in hemopoiesis	biological_process
+GO:0035660	MyD88-dependent toll-like receptor 4 signaling pathway	biological_process
+GO:0035661	MyD88-dependent toll-like receptor 2 signaling pathway	biological_process
+GO:0035664	TIRAP-dependent toll-like receptor signaling pathway	biological_process
+GO:0035665	TIRAP-dependent toll-like receptor 4 signaling pathway	biological_process
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway	biological_process
+GO:0035667	TRIF-dependent toll-like receptor 4 signaling pathway	biological_process
+GO:0035668	TRAM-dependent toll-like receptor signaling pathway	biological_process
+GO:0035669	TRAM-dependent toll-like receptor 4 signaling pathway	biological_process
+GO:0035681	toll-like receptor 15 signaling pathway	biological_process
+GO:0035682	toll-like receptor 21 signaling pathway	biological_process
+GO:0035683	memory T cell extravasation	biological_process
+GO:0035684	helper T cell extravasation	biological_process
+GO:0035685	helper T cell diapedesis	biological_process
+GO:0035687	T-helper 1 cell extravasation	biological_process
+GO:0035688	T-helper 1 cell diapedesis	biological_process
+GO:0035696	monocyte extravasation	biological_process
+GO:0035697	CD8-positive, alpha-beta T cell extravasation	biological_process
+GO:0035698	CD8-positive, alpha-beta cytotoxic T cell extravasation	biological_process
+GO:0035699	T-helper 17 cell extravasation	biological_process
+GO:0035702	monocyte homeostasis	biological_process
+GO:0035703	monocyte migration into blood stream	biological_process
+GO:0035704	helper T cell chemotaxis	biological_process
+GO:0035705	T-helper 17 cell chemotaxis	biological_process
+GO:0035706	T-helper 1 cell chemotaxis	biological_process
+GO:0035707	T-helper 2 cell chemotaxis	biological_process
+GO:0035708	interleukin-4-dependent isotype switching to IgE isotypes	biological_process
+GO:0035709	memory T cell activation	biological_process
+GO:0035710	CD4-positive, alpha-beta T cell activation	biological_process
+GO:0035711	T-helper 1 cell activation	biological_process
+GO:0035712	T-helper 2 cell activation	biological_process
+GO:0035739	CD4-positive, alpha-beta T cell proliferation	biological_process
+GO:0035740	CD8-positive, alpha-beta T cell proliferation	biological_process
+GO:0035741	activated CD4-positive, alpha-beta T cell proliferation	biological_process
+GO:0035742	activated CD8-positive, alpha-beta T cell proliferation	biological_process
+GO:0035743	CD4-positive, alpha-beta T cell cytokine production	biological_process
+GO:0035744	T-helper 1 cell cytokine production	biological_process
+GO:0035745	T-helper 2 cell cytokine production	biological_process
+GO:0035746	granzyme A production	biological_process
+GO:0035747	natural killer cell chemotaxis	biological_process
+GO:0035754	B cell chemotaxis	biological_process
+GO:0035769	B cell chemotaxis across high endothelial venule	biological_process
+GO:0035782	mature natural killer cell chemotaxis	biological_process
+GO:0035783	CD4-positive, alpha-beta T cell costimulation	biological_process
+GO:0035854	eosinophil fate commitment	biological_process
+GO:0035855	megakaryocyte development	biological_process
+GO:0035857	eosinophil fate specification	biological_process
+GO:0035858	eosinophil fate determination	biological_process
+GO:0035895	modulation of mast cell degranulation in other organism	biological_process
+GO:0035896	positive regulation of mast cell degranulation in other organism	biological_process
+GO:0035944	perforin production	biological_process
+GO:0036035	osteoclast development	biological_process
+GO:0036037	CD8-positive, alpha-beta T cell activation	biological_process
+GO:0036145	dendritic cell homeostasis	biological_process
+GO:0036179	osteoclast maturation	biological_process
+GO:0036230	granulocyte activation	biological_process
+GO:0036262	granulysin production	biological_process
+GO:0036336	dendritic cell migration	biological_process
+GO:0036523	positive regulation by symbiont of host cytokine secretion	biological_process
+GO:0038093	Fc receptor signaling pathway	biological_process
+GO:0038094	Fc-gamma receptor signaling pathway	biological_process
+GO:0038095	Fc-epsilon receptor signaling pathway	biological_process
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	biological_process
+GO:0038097	positive regulation of mast cell activation by Fc-epsilon receptor signaling pathway	biological_process
+GO:0038123	toll-like receptor TLR1:TLR2 signaling pathway	biological_process
+GO:0038124	toll-like receptor TLR6:TLR2 signaling pathway	biological_process
+GO:0038178	complement component C5a signaling pathway	biological_process
+GO:0038196	type III interferon signaling pathway	biological_process
+GO:0039501	suppression by virus of host type I interferon production	biological_process
+GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	biological_process
+GO:0039503	suppression by virus of host innate immune response	biological_process
+GO:0039504	suppression by virus of host adaptive immune response	biological_process
+GO:0039505	suppression by virus of host antigen processing and presentation of peptide antigen via MHC class II	biological_process
+GO:0039528	cytoplasmic pattern recognition receptor signaling pathway in response to virus	biological_process
+GO:0039529	RIG-I signaling pathway	biological_process
+GO:0039530	MDA-5 signaling pathway	biological_process
+GO:0039531	regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	biological_process
+GO:0039532	negative regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	biological_process
+GO:0039533	regulation of MDA-5 signaling pathway	biological_process
+GO:0039534	negative regulation of MDA-5 signaling pathway	biological_process
+GO:0039535	regulation of RIG-I signaling pathway	biological_process
+GO:0039536	negative regulation of RIG-I signaling pathway	biological_process
+GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	biological_process
+GO:0039538	suppression by virus of host RIG-I signaling pathway	biological_process
+GO:0039539	suppression by virus of host MDA-5 signaling pathway	biological_process
+GO:0039540	suppression by virus of host RIG-I activity	biological_process
+GO:0039541	suppression by virus of host RIG-I via RIG-I binding	biological_process
+GO:0039542	suppression by virus of host RIG-I K63-linked ubiquitination	biological_process
+GO:0039543	suppression by virus of host RIG-I activity by viral RNA 5' processing	biological_process
+GO:0039544	suppression by virus of host RIG-I activity by RIG-I proteolysis	biological_process
+GO:0039545	suppression by virus of host MAVS activity	biological_process
+GO:0039546	suppression by virus of host MAVS activity by MAVS proteolysis	biological_process
+GO:0039548	suppression by virus of host IRF3 activity	biological_process
+GO:0039549	suppression by virus of host IRF3 activity by inhibition of IRF3 phosphorylation	biological_process
+GO:0039550	suppression by virus of host IRF3 activity by inhibition of DNA binding	biological_process
+GO:0039551	suppression by virus of host IRF3 activity by positive regulation of IRF3 catabolic process	biological_process
+GO:0039554	suppression by virus of host MDA-5 activity	biological_process
+GO:0039555	suppression by virus of host MDA-5 activity via MDA-5 binding	biological_process
+GO:0039557	suppression by virus of host IRF7 activity	biological_process
+GO:0039558	suppression by virus of host IRF7 activity by positive regulation of IRF7 sumoylation	biological_process
+GO:0039559	suppression by virus of host IRF7 activity by positive regulation of IRF7 catabolic process	biological_process
+GO:0039560	suppression by virus of host IRF9 activity	biological_process
+GO:0039561	suppression by virus of host IRF9 activity by positive regulation of IRF9 localization to nucleus	biological_process
+GO:0039573	suppression by virus of host complement activation	biological_process
+GO:0039574	suppression by virus of host TYK2 activity	biological_process
+GO:0039575	suppression by virus of host TYK2 activity by negative regulation of TYK2 tyrosine phosphorylation	biological_process
+GO:0039579	suppression by virus of host ISG15 activity	biological_process
+GO:0039580	suppression by virus of host PKR activity	biological_process
+GO:0039581	suppression by virus of host PKR activity via double-stranded RNA binding	biological_process
+GO:0039582	suppression by virus of host PKR activity by positive regulation of PKR nuclear localization	biological_process
+GO:0039583	suppression by virus of host PKR activity by positive regulation of PKR catabolic process	biological_process
+GO:0039588	suppression by virus of host antigen processing and presentation	biological_process
+GO:0039589	suppression by virus of host TAP complex	biological_process
+GO:0039591	suppression by virus of host tapasin activity	biological_process
+GO:0039671	evasion by virus of host natural killer cell activity	biological_process
+GO:0039672	suppression by virus of host natural killer cell activation	biological_process
+GO:0039673	evasion by virus of host dendritic cell activity	biological_process
+GO:0039699	viral mRNA cap methylation	biological_process
+GO:0039722	suppression by virus of host toll-like receptor signaling pathway	biological_process
+GO:0039723	suppression by virus of host TBK1 activity	biological_process
+GO:0039724	suppression by virus of host IKBKE activity	biological_process
+GO:0042088	T-helper 1 type immune response	biological_process
+GO:0042092	type 2 immune response	biological_process
+GO:0042093	T-helper cell differentiation	biological_process
+GO:0042098	T cell proliferation	biological_process
+GO:0042100	B cell proliferation	biological_process
+GO:0042102	positive regulation of T cell proliferation	biological_process
+GO:0042103	positive regulation of T cell homeostatic proliferation	biological_process
+GO:0042104	positive regulation of activated T cell proliferation	biological_process
+GO:0042110	T cell activation	biological_process
+GO:0042113	B cell activation	biological_process
+GO:0042116	macrophage activation	biological_process
+GO:0042117	monocyte activation	biological_process
+GO:0042119	neutrophil activation	biological_process
+GO:0042129	regulation of T cell proliferation	biological_process
+GO:0042130	negative regulation of T cell proliferation	biological_process
+GO:0042269	regulation of natural killer cell mediated cytotoxicity	biological_process
+GO:0042270	protection from natural killer cell mediated cytotoxicity	biological_process
+GO:0042271	susceptibility to natural killer cell mediated cytotoxicity	biological_process
+GO:0042381	hemolymph coagulation	biological_process
+GO:0042386	hemocyte differentiation	biological_process
+GO:0042387	plasmatocyte differentiation	biological_process
+GO:0042492	gamma-delta T cell differentiation	biological_process
+GO:0042590	antigen processing and presentation of exogenous peptide antigen via MHC class I	biological_process
+GO:0042688	crystal cell differentiation	biological_process
+GO:0042689	regulation of crystal cell differentiation	biological_process
+GO:0042690	negative regulation of crystal cell differentiation	biological_process
+GO:0042691	positive regulation of crystal cell differentiation	biological_process
+GO:0042722	alpha-beta T cell activation by superantigen	biological_process
+GO:0043011	myeloid dendritic cell differentiation	biological_process
+GO:0043029	T cell homeostasis	biological_process
+GO:0043030	regulation of macrophage activation	biological_process
+GO:0043031	negative regulation of macrophage activation	biological_process
+GO:0043032	positive regulation of macrophage activation	biological_process
+GO:0043131	erythrocyte enucleation	biological_process
+GO:0043152	induction of bacterial agglutination	biological_process
+GO:0043249	erythrocyte maturation	biological_process
+GO:0043272	ethylene biosynthesis involved in jasmonic acid and ethylene-dependent systemic resistance	biological_process
+GO:0043299	leukocyte degranulation	biological_process
+GO:0043300	regulation of leukocyte degranulation	biological_process
+GO:0043301	negative regulation of leukocyte degranulation	biological_process
+GO:0043302	positive regulation of leukocyte degranulation	biological_process
+GO:0043303	mast cell degranulation	biological_process
+GO:0043304	regulation of mast cell degranulation	biological_process
+GO:0043305	negative regulation of mast cell degranulation	biological_process
+GO:0043306	positive regulation of mast cell degranulation	biological_process
+GO:0043307	eosinophil activation	biological_process
+GO:0043308	eosinophil degranulation	biological_process
+GO:0043309	regulation of eosinophil degranulation	biological_process
+GO:0043310	negative regulation of eosinophil degranulation	biological_process
+GO:0043311	positive regulation of eosinophil degranulation	biological_process
+GO:0043312	neutrophil degranulation	biological_process
+GO:0043313	regulation of neutrophil degranulation	biological_process
+GO:0043314	negative regulation of neutrophil degranulation	biological_process
+GO:0043315	positive regulation of neutrophil degranulation	biological_process
+GO:0043316	cytotoxic T cell degranulation	biological_process
+GO:0043317	regulation of cytotoxic T cell degranulation	biological_process
+GO:0043318	negative regulation of cytotoxic T cell degranulation	biological_process
+GO:0043319	positive regulation of cytotoxic T cell degranulation	biological_process
+GO:0043320	natural killer cell degranulation	biological_process
+GO:0043321	regulation of natural killer cell degranulation	biological_process
+GO:0043322	negative regulation of natural killer cell degranulation	biological_process
+GO:0043323	positive regulation of natural killer cell degranulation	biological_process
+GO:0043353	enucleate erythrocyte differentiation	biological_process
+GO:0043354	enucleate erythrocyte maturation	biological_process
+GO:0043362	nucleate erythrocyte maturation	biological_process
+GO:0043363	nucleate erythrocyte differentiation	biological_process
+GO:0043366	beta selection	biological_process
+GO:0043367	CD4-positive, alpha-beta T cell differentiation	biological_process
+GO:0043368	positive T cell selection	biological_process
+GO:0043369	CD4-positive or CD8-positive, alpha-beta T cell lineage commitment	biological_process
+GO:0043370	regulation of CD4-positive, alpha-beta T cell differentiation	biological_process
+GO:0043371	negative regulation of CD4-positive, alpha-beta T cell differentiation	biological_process
+GO:0043372	positive regulation of CD4-positive, alpha-beta T cell differentiation	biological_process
+GO:0043373	CD4-positive, alpha-beta T cell lineage commitment	biological_process
+GO:0043374	CD8-positive, alpha-beta T cell differentiation	biological_process
+GO:0043375	CD8-positive, alpha-beta T cell lineage commitment	biological_process
+GO:0043376	regulation of CD8-positive, alpha-beta T cell differentiation	biological_process
+GO:0043377	negative regulation of CD8-positive, alpha-beta T cell differentiation	biological_process
+GO:0043378	positive regulation of CD8-positive, alpha-beta T cell differentiation	biological_process
+GO:0043379	memory T cell differentiation	biological_process
+GO:0043380	regulation of memory T cell differentiation	biological_process
+GO:0043381	negative regulation of memory T cell differentiation	biological_process
+GO:0043382	positive regulation of memory T cell differentiation	biological_process
+GO:0043383	negative T cell selection	biological_process
+GO:0044565	dendritic cell proliferation	biological_process
+GO:0044627	modulation of complement activation, classical pathway in other organism	biological_process
+GO:0044628	positive regulation of complement activation, classical pathway in other organism	biological_process
+GO:0044629	negative regulation of complement activation, classical pathway in other organism	biological_process
+GO:0044630	modulation of complement activation, lectin pathway in other organism	biological_process
+GO:0044631	positive regulation of complement activation, lectin pathway in other organism	biological_process
+GO:0044632	negative regulation of complement activation, lectin pathway in other organism	biological_process
+GO:0044633	modulation of complement activation, alternative pathway in other organism	biological_process
+GO:0044634	negative regulation of complement activation, alternative pathway in other organism	biological_process
+GO:0044635	positive regulation of complement activation, alternative pathway in other organism	biological_process
+GO:0044645	modulation of complement activation in other organism	biological_process
+GO:0044831	modulation by virus of host cytokine production	biological_process
+GO:0044832	positive regulation by virus of host cytokine production	biological_process
+GO:0045058	T cell selection	biological_process
+GO:0045059	positive thymic T cell selection	biological_process
+GO:0045060	negative thymic T cell selection	biological_process
+GO:0045061	thymic T cell selection	biological_process
+GO:0045062	extrathymic T cell selection	biological_process
+GO:0045063	T-helper 1 cell differentiation	biological_process
+GO:0045064	T-helper 2 cell differentiation	biological_process
+GO:0045065	cytotoxic T cell differentiation	biological_process
+GO:0045066	regulatory T cell differentiation	biological_process
+GO:0045067	positive extrathymic T cell selection	biological_process
+GO:0045068	negative extrathymic T cell selection	biological_process
+GO:0045087	innate immune response	biological_process
+GO:0045088	regulation of innate immune response	biological_process
+GO:0045089	positive regulation of innate immune response	biological_process
+GO:0045123	cellular extravasation	biological_process
+GO:0045190	isotype switching	biological_process
+GO:0045191	regulation of isotype switching	biological_process
+GO:0045321	leukocyte activation	biological_process
+GO:0045575	basophil activation	biological_process
+GO:0045576	mast cell activation	biological_process
+GO:0045577	regulation of B cell differentiation	biological_process
+GO:0045578	negative regulation of B cell differentiation	biological_process
+GO:0045579	positive regulation of B cell differentiation	biological_process
+GO:0045580	regulation of T cell differentiation	biological_process
+GO:0045581	negative regulation of T cell differentiation	biological_process
+GO:0045582	positive regulation of T cell differentiation	biological_process
+GO:0045583	regulation of cytotoxic T cell differentiation	biological_process
+GO:0045584	negative regulation of cytotoxic T cell differentiation	biological_process
+GO:0045585	positive regulation of cytotoxic T cell differentiation	biological_process
+GO:0045586	regulation of gamma-delta T cell differentiation	biological_process
+GO:0045587	negative regulation of gamma-delta T cell differentiation	biological_process
+GO:0045588	positive regulation of gamma-delta T cell differentiation	biological_process
+GO:0045589	regulation of regulatory T cell differentiation	biological_process
+GO:0045590	negative regulation of regulatory T cell differentiation	biological_process
+GO:0045591	positive regulation of regulatory T cell differentiation	biological_process
+GO:0045610	regulation of hemocyte differentiation	biological_process
+GO:0045611	negative regulation of hemocyte differentiation	biological_process
+GO:0045612	positive regulation of hemocyte differentiation	biological_process
+GO:0045613	regulation of plasmatocyte differentiation	biological_process
+GO:0045614	negative regulation of plasmatocyte differentiation	biological_process
+GO:0045615	positive regulation of plasmatocyte differentiation	biological_process
+GO:0045619	regulation of lymphocyte differentiation	biological_process
+GO:0045620	negative regulation of lymphocyte differentiation	biological_process
+GO:0045621	positive regulation of lymphocyte differentiation	biological_process
+GO:0045622	regulation of T-helper cell differentiation	biological_process
+GO:0045623	negative regulation of T-helper cell differentiation	biological_process
+GO:0045624	positive regulation of T-helper cell differentiation	biological_process
+GO:0045625	regulation of T-helper 1 cell differentiation	biological_process
+GO:0045626	negative regulation of T-helper 1 cell differentiation	biological_process
+GO:0045627	positive regulation of T-helper 1 cell differentiation	biological_process
+GO:0045628	regulation of T-helper 2 cell differentiation	biological_process
+GO:0045629	negative regulation of T-helper 2 cell differentiation	biological_process
+GO:0045630	positive regulation of T-helper 2 cell differentiation	biological_process
+GO:0045637	regulation of myeloid cell differentiation	biological_process
+GO:0045638	negative regulation of myeloid cell differentiation	biological_process
+GO:0045639	positive regulation of myeloid cell differentiation	biological_process
+GO:0045640	regulation of basophil differentiation	biological_process
+GO:0045641	negative regulation of basophil differentiation	biological_process
+GO:0045642	positive regulation of basophil differentiation	biological_process
+GO:0045643	regulation of eosinophil differentiation	biological_process
+GO:0045644	negative regulation of eosinophil differentiation	biological_process
+GO:0045645	positive regulation of eosinophil differentiation	biological_process
+GO:0045646	regulation of erythrocyte differentiation	biological_process
+GO:0045647	negative regulation of erythrocyte differentiation	biological_process
+GO:0045648	positive regulation of erythrocyte differentiation	biological_process
+GO:0045649	regulation of macrophage differentiation	biological_process
+GO:0045650	negative regulation of macrophage differentiation	biological_process
+GO:0045651	positive regulation of macrophage differentiation	biological_process
+GO:0045652	regulation of megakaryocyte differentiation	biological_process
+GO:0045653	negative regulation of megakaryocyte differentiation	biological_process
+GO:0045654	positive regulation of megakaryocyte differentiation	biological_process
+GO:0045655	regulation of monocyte differentiation	biological_process
+GO:0045656	negative regulation of monocyte differentiation	biological_process
+GO:0045657	positive regulation of monocyte differentiation	biological_process
+GO:0045658	regulation of neutrophil differentiation	biological_process
+GO:0045659	negative regulation of neutrophil differentiation	biological_process
+GO:0045660	positive regulation of neutrophil differentiation	biological_process
+GO:0045670	regulation of osteoclast differentiation	biological_process
+GO:0045671	negative regulation of osteoclast differentiation	biological_process
+GO:0045672	positive regulation of osteoclast differentiation	biological_process
+GO:0045728	respiratory burst after phagocytosis	biological_process
+GO:0045824	negative regulation of innate immune response	biological_process
+GO:0045829	negative regulation of isotype switching	biological_process
+GO:0045830	positive regulation of isotype switching	biological_process
+GO:0045916	negative regulation of complement activation	biological_process
+GO:0045917	positive regulation of complement activation	biological_process
+GO:0045953	negative regulation of natural killer cell mediated cytotoxicity	biological_process
+GO:0045954	positive regulation of natural killer cell mediated cytotoxicity	biological_process
+GO:0045957	negative regulation of complement activation, alternative pathway	biological_process
+GO:0045958	positive regulation of complement activation, alternative pathway	biological_process
+GO:0045959	negative regulation of complement activation, classical pathway	biological_process
+GO:0045960	positive regulation of complement activation, classical pathway	biological_process
+GO:0046006	regulation of activated T cell proliferation	biological_process
+GO:0046007	negative regulation of activated T cell proliferation	biological_process
+GO:0046013	regulation of T cell homeostatic proliferation	biological_process
+GO:0046014	negative regulation of T cell homeostatic proliferation	biological_process
+GO:0046629	gamma-delta T cell activation	biological_process
+GO:0046630	gamma-delta T cell proliferation	biological_process
+GO:0046631	alpha-beta T cell activation	biological_process
+GO:0046632	alpha-beta T cell differentiation	biological_process
+GO:0046633	alpha-beta T cell proliferation	biological_process
+GO:0046634	regulation of alpha-beta T cell activation	biological_process
+GO:0046635	positive regulation of alpha-beta T cell activation	biological_process
+GO:0046636	negative regulation of alpha-beta T cell activation	biological_process
+GO:0046637	regulation of alpha-beta T cell differentiation	biological_process
+GO:0046638	positive regulation of alpha-beta T cell differentiation	biological_process
+GO:0046639	negative regulation of alpha-beta T cell differentiation	biological_process
+GO:0046640	regulation of alpha-beta T cell proliferation	biological_process
+GO:0046641	positive regulation of alpha-beta T cell proliferation	biological_process
+GO:0046642	negative regulation of alpha-beta T cell proliferation	biological_process
+GO:0046643	regulation of gamma-delta T cell activation	biological_process
+GO:0046644	negative regulation of gamma-delta T cell activation	biological_process
+GO:0046645	positive regulation of gamma-delta T cell activation	biological_process
+GO:0046646	regulation of gamma-delta T cell proliferation	biological_process
+GO:0046647	negative regulation of gamma-delta T cell proliferation	biological_process
+GO:0046648	positive regulation of gamma-delta T cell proliferation	biological_process
+GO:0046649	lymphocyte activation	biological_process
+GO:0046651	lymphocyte proliferation	biological_process
+GO:0046730	induction of host immune response by virus	biological_process
+GO:0046731	passive induction of host immune response by virus	biological_process
+GO:0046732	active induction of host immune response by virus	biological_process
+GO:0046733	passive induction of host humoral immune response by virus	biological_process
+GO:0046734	passive induction of host cell-mediated immune response by virus	biological_process
+GO:0046735	passive induction of host innate immune response by virus	biological_process
+GO:0046736	active induction of humoral immune response in host by virus	biological_process
+GO:0046737	active induction of cell-mediated immune response in host by virus	biological_process
+GO:0046738	active induction of innate immune response in host by virus	biological_process
+GO:0046774	suppression by virus of host intracellular interferon activity	biological_process
+GO:0046775	suppression by virus of host cytokine production	biological_process
+GO:0046776	suppression by virus of host antigen processing and presentation of peptide antigen via MHC class I	biological_process
+GO:0046968	peptide antigen transport	biological_process
+GO:0048002	antigen processing and presentation of peptide antigen	biological_process
+GO:0048003	antigen processing and presentation of lipid antigen via MHC class Ib	biological_process
+GO:0048006	antigen processing and presentation, endogenous lipid antigen via MHC class Ib	biological_process
+GO:0048007	antigen processing and presentation, exogenous lipid antigen via MHC class Ib	biological_process
+GO:0050823	peptide antigen stabilization	biological_process
+GO:0048245	eosinophil chemotaxis	biological_process
+GO:0048246	macrophage chemotaxis	biological_process
+GO:0048247	lymphocyte chemotaxis	biological_process
+GO:0048289	isotype switching to IgE isotypes	biological_process
+GO:0048290	isotype switching to IgA isotypes	biological_process
+GO:0048291	isotype switching to IgG isotypes	biological_process
+GO:0048292	isotype switching to IgD isotypes	biological_process
+GO:0048293	regulation of isotype switching to IgE isotypes	biological_process
+GO:0048294	negative regulation of isotype switching to IgE isotypes	biological_process
+GO:0048295	positive regulation of isotype switching to IgE isotypes	biological_process
+GO:0048296	regulation of isotype switching to IgA isotypes	biological_process
+GO:0048297	negative regulation of isotype switching to IgA isotypes	biological_process
+GO:0048298	positive regulation of isotype switching to IgA isotypes	biological_process
+GO:0048299	regulation of isotype switching to IgD isotypes	biological_process
+GO:0048300	negative regulation of isotype switching to IgD isotypes	biological_process
+GO:0048301	positive regulation of isotype switching to IgD isotypes	biological_process
+GO:0048302	regulation of isotype switching to IgG isotypes	biological_process
+GO:0048303	negative regulation of isotype switching to IgG isotypes	biological_process
+GO:0048304	positive regulation of isotype switching to IgG isotypes	biological_process
+GO:0048305	immunoglobulin secretion	biological_process
+GO:0048534	hematopoietic or lymphoid organ development	biological_process
+GO:0048536	spleen development	biological_process
+GO:0048537	mucosal-associated lymphoid tissue development	biological_process
+GO:0048538	thymus development	biological_process
+GO:0048539	bone marrow development	biological_process
+GO:0048540	bursa of Fabricius development	biological_process
+GO:0048541	Peyer's patch development	biological_process
+GO:0048821	erythrocyte development	biological_process
+GO:0048822	enucleate erythrocyte development	biological_process
+GO:0048823	nucleate erythrocyte development	biological_process
+GO:0050670	regulation of lymphocyte proliferation	biological_process
+GO:0050671	positive regulation of lymphocyte proliferation	biological_process
+GO:0050672	negative regulation of lymphocyte proliferation	biological_process
+GO:0050687	negative regulation of defense response to virus	biological_process
+GO:0050688	regulation of defense response to virus	biological_process
+GO:0050689	negative regulation of defense response to virus by host	biological_process
+GO:0050690	regulation of defense response to virus by virus	biological_process
+GO:0050691	regulation of defense response to virus by host	biological_process
+GO:0050776	regulation of immune response	biological_process
+GO:0050777	negative regulation of immune response	biological_process
+GO:0050778	positive regulation of immune response	biological_process
+GO:0050798	activated T cell proliferation	biological_process
+GO:0050851	antigen receptor-mediated signaling pathway	biological_process
+GO:0050853	B cell receptor signaling pathway	biological_process
+GO:0050854	regulation of antigen receptor-mediated signaling pathway	biological_process
+GO:0050855	regulation of B cell receptor signaling pathway	biological_process
+GO:0050857	positive regulation of antigen receptor-mediated signaling pathway	biological_process
+GO:0050858	negative regulation of antigen receptor-mediated signaling pathway	biological_process
+GO:0050859	negative regulation of B cell receptor signaling pathway	biological_process
+GO:0050860	negative regulation of T cell receptor signaling pathway	biological_process
+GO:0050861	positive regulation of B cell receptor signaling pathway	biological_process
+GO:0050863	regulation of T cell activation	biological_process
+GO:0050864	regulation of B cell activation	biological_process
+GO:0050868	negative regulation of T cell activation	biological_process
+GO:0050869	negative regulation of B cell activation	biological_process
+GO:0050870	positive regulation of T cell activation	biological_process
+GO:0050871	positive regulation of B cell activation	biological_process
+GO:0050900	leukocyte migration	biological_process
+GO:0050901	leukocyte tethering or rolling	biological_process
+GO:0050902	leukocyte adhesive activation	biological_process
+GO:0050903	leukocyte activation-dependent arrest	biological_process
+GO:0050904	diapedesis	biological_process
+GO:0051023	regulation of immunoglobulin secretion	biological_process
+GO:0051024	positive regulation of immunoglobulin secretion	biological_process
+GO:0051025	negative regulation of immunoglobulin secretion	biological_process
+GO:0051132	NK T cell activation	biological_process
+GO:0051133	regulation of NK T cell activation	biological_process
+GO:0051134	negative regulation of NK T cell activation	biological_process
+GO:0051135	positive regulation of NK T cell activation	biological_process
+GO:0051136	regulation of NK T cell differentiation	biological_process
+GO:0051137	negative regulation of NK T cell differentiation	biological_process
+GO:0051138	positive regulation of NK T cell differentiation	biological_process
+GO:0051140	regulation of NK T cell proliferation	biological_process
+GO:0051141	negative regulation of NK T cell proliferation	biological_process
+GO:0051142	positive regulation of NK T cell proliferation	biological_process
+GO:0051214	RNA virus induced gene silencing	biological_process
+GO:0051215	DNA virus induced gene silencing	biological_process
+GO:0051249	regulation of lymphocyte activation	biological_process
+GO:0051250	negative regulation of lymphocyte activation	biological_process
+GO:0051251	positive regulation of lymphocyte activation	biological_process
+GO:0051607	defense response to virus	biological_process
+GO:0052003	negative regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	biological_process
+GO:0052004	negative regulation by symbiont of host salicylic acid-mediated defense response	biological_process
+GO:0052033	pathogen-associated molecular pattern dependent induction by symbiont of host innate immune response	biological_process
+GO:0052034	negative regulation by symbiont of microbe-associated molecular pattern-induced host innate immune response	biological_process
+GO:0052062	induction by symbiont of host phytoalexin production	biological_process
+GO:0052063	induction by symbiont of defense-related host nitric oxide production	biological_process
+GO:0052064	induction by symbiont of defense-related host reactive oxygen species production	biological_process
+GO:0052068	negative regulation by symbiont of host jasmonic acid-mediated defense response	biological_process
+GO:0052069	negative regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	biological_process
+GO:0052072	positive regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway	biological_process
+GO:0052073	positive regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway	biological_process
+GO:0052074	positive regulation by symbiont of host salicylic acid-mediated defense response	biological_process
+GO:0052075	positive regulation by symbiont of host jasmonic acid-mediated defense response	biological_process
+GO:0052083	negative regulation by symbiont of host cell-mediated immune response	biological_process
+GO:0052085	negative regulation by symbiont of host T-cell mediated immune response	biological_process
+GO:0052086	negative regulation by symbiont of host B-cell mediated immune response	biological_process
+GO:0052088	modulation by symbiont of host jasmonic acid-mediated defense response	biological_process
+GO:0052089	modulation by symbiont of host salicylic acid-mediated defense response	biological_process
+GO:0052101	induction by symbiont of host resistance gene-dependent defense response	biological_process
+GO:0052103	induction by symbiont of host induced systemic resistance	biological_process
+GO:0052104	induction by symbiont of host systemic acquired resistance	biological_process
+GO:0052154	modulation by symbiont of host B-cell mediated immune response	biological_process
+GO:0052155	modulation by symbiont of host cell-mediated immune response	biological_process
+GO:0052156	modulation by symbiont of host T-cell mediated immune response	biological_process
+GO:0052157	modulation by symbiont of microbe-associated molecular pattern-induced host innate immune response	biological_process
+GO:0052158	modulation by symbiont of host resistance gene-dependent defense response	biological_process
+GO:0052159	modulation by symbiont of host induced systemic resistance	biological_process
+GO:0052160	modulation by symbiont of host systemic acquired resistance	biological_process
+GO:0052163	modulation by symbiont of defense-related host nitric oxide production	biological_process
+GO:0052164	modulation by symbiont of defense-related host reactive oxygen species production	biological_process
+GO:0052165	modulation by symbiont of host phytoalexin production	biological_process
+GO:0052166	positive regulation by symbiont of host innate immune response	biological_process
+GO:0052167	modulation by symbiont of host innate immune response	biological_process
+GO:0052169	pathogen-associated molecular pattern dependent modulation by symbiont of host innate immune response	biological_process
+GO:0052170	negative regulation by symbiont of host innate immune response	biological_process
+GO:0052257	pathogen-associated molecular pattern dependent induction by organism of innate immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052258	negative regulation by organism of pathogen-associated molecular pattern-induced innate immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052262	induction by organism of phytoalexin production in other organism involved in symbiotic interaction	biological_process
+GO:0052263	induction by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	biological_process
+GO:0052264	induction by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	biological_process
+GO:0052266	negative regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	biological_process
+GO:0052267	negative regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	biological_process
+GO:0052271	positive regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction	biological_process
+GO:0052273	positive regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	biological_process
+GO:0052278	negative regulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052280	negative regulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052281	negative regulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052283	modulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction	biological_process
+GO:0052286	induction by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	biological_process
+GO:0052288	induction by organism of induced systemic resistance in other organism involved in symbiotic interaction	biological_process
+GO:0052289	induction by organism of systemic acquired resistance in other organism involved in symbiotic interaction	biological_process
+GO:0052293	modulation by organism of B-cell mediated immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052294	modulation by organism of cell-mediated immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052295	modulation by organism of T-cell mediated immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052296	modulation by organism of microbe-associated molecular pattern-induced innate immune response in other organism involved in symbiotic interaction	biological_process
+GO:0052297	modulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	biological_process
+GO:0052298	modulation by organism of induced systemic resistance in other organism involved in symbiotic interaction	biological_process
+GO:0052299	modulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction	biological_process
+GO:0052302	modulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	biological_process
+GO:0052303	modulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	biological_process
+GO:0052304	modulation by organism of phytoalexin production in other organism involved in symbiotic interaction	biological_process
+GO:0052305	positive regulation by organism of innate immune response in other organism involved in symbiotic interaction	biological_process
+GO:0052306	modulation by organism of innate immune response in other organism involved in symbiotic interaction	biological_process
+GO:0052308	pathogen-associated molecular pattern dependent modulation by organism of innate immune response in other organism involved in symbiotic interaction	biological_process
+GO:0052309	negative regulation by organism of innate immune response in other organism involved in symbiotic interaction	biological_process
+GO:0052329	positive regulation by organism of phytoalexin production in other organism involved in symbiotic interaction	biological_process
+GO:0052344	positive regulation by symbiont of host phytoalexin production	biological_process
+GO:0052345	positive regulation by organism of defense-related nitric oxide production in other organism involved in symbiotic interaction	biological_process
+GO:0052347	positive regulation by symbiont of defense-related host nitric oxide production	biological_process
+GO:0052348	positive regulation by organism of defense-related reactive oxygen species production in other organism involved in symbiotic interaction	biological_process
+GO:0052369	positive regulation by symbiont of defense-related host reactive oxygen species production	biological_process
+GO:0052382	induction by organism of innate immune response in other organism involved in symbiotic interaction	biological_process
+GO:0052390	induction by symbiont of host innate immune response	biological_process
+GO:0052423	positive regulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction	biological_process
+GO:0052527	positive regulation by symbiont of host resistance gene-dependent defense response	biological_process
+GO:0052532	positive regulation by organism of induced systemic resistance in other organism involved in symbiotic interaction	biological_process
+GO:0052533	positive regulation by symbiont of host induced systemic resistance	biological_process
+GO:0052535	positive regulation by organism of systemic acquired resistance in other organism involved in symbiotic interaction	biological_process
+GO:0052537	positive regulation by symbiont of host systemic acquired resistance	biological_process
+GO:0052552	modulation by organism of immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052553	modulation by symbiont of host immune response	biological_process
+GO:0052555	positive regulation by organism of immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052556	positive regulation by symbiont of host immune response	biological_process
+GO:0052558	induction by organism of immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052559	induction by symbiont of host immune response	biological_process
+GO:0052561	negative regulation by organism of immune response of other organism involved in symbiotic interaction	biological_process
+GO:0052562	negative regulation by symbiont of host immune response	biological_process
+GO:0060144	host cellular process involved in virus induced gene silencing	biological_process
+GO:0060145	viral gene silencing in virus induced gene silencing	biological_process
+GO:0060146	host gene silencing in virus induced gene silencing	biological_process
+GO:0060150	viral triggering of virus induced gene silencing	biological_process
+GO:0060215	primitive hemopoiesis	biological_process
+GO:0060216	definitive hemopoiesis	biological_process
+GO:0060217	hemangioblast cell differentiation	biological_process
+GO:0060218	hematopoietic stem cell differentiation	biological_process
+GO:0060264	regulation of respiratory burst involved in inflammatory response	biological_process
+GO:0060265	positive regulation of respiratory burst involved in inflammatory response	biological_process
+GO:0060266	negative regulation of respiratory burst involved in inflammatory response	biological_process
+GO:0060318	definitive erythrocyte differentiation	biological_process
+GO:0060319	primitive erythrocyte differentiation	biological_process
+GO:0060330	regulation of response to interferon-gamma	biological_process
+GO:0060331	negative regulation of response to interferon-gamma	biological_process
+GO:0060332	positive regulation of response to interferon-gamma	biological_process
+GO:0060333	interferon-gamma-mediated signaling pathway	biological_process
+GO:0060334	regulation of interferon-gamma-mediated signaling pathway	biological_process
+GO:0060335	positive regulation of interferon-gamma-mediated signaling pathway	biological_process
+GO:0060336	negative regulation of interferon-gamma-mediated signaling pathway	biological_process
+GO:0060337	type I interferon signaling pathway	biological_process
+GO:0060338	regulation of type I interferon-mediated signaling pathway	biological_process
+GO:0060339	negative regulation of type I interferon-mediated signaling pathway	biological_process
+GO:0060340	positive regulation of type I interferon-mediated signaling pathway	biological_process
+GO:0060345	spleen trabecula formation	biological_process
+GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway	biological_process
+GO:0060369	positive regulation of Fc receptor mediated stimulatory signaling pathway	biological_process
+GO:0060370	susceptibility to T cell mediated cytotoxicity	biological_process
+GO:0060374	mast cell differentiation	biological_process
+GO:0060375	regulation of mast cell differentiation	biological_process
+GO:0060376	positive regulation of mast cell differentiation	biological_process
+GO:0060377	negative regulation of mast cell differentiation	biological_process
+GO:0060753	regulation of mast cell chemotaxis	biological_process
+GO:0060754	positive regulation of mast cell chemotaxis	biological_process
+GO:0060755	negative regulation of mast cell chemotaxis	biological_process
+GO:0060907	positive regulation of macrophage cytokine production	biological_process
+GO:0061078	positive regulation of prostaglandin secretion involved in immune response	biological_process
+GO:0061081	positive regulation of myeloid leukocyte cytokine production involved in immune response	biological_process
+GO:0061082	myeloid leukocyte cytokine production	biological_process
+GO:0061146	Peyer's patch morphogenesis	biological_process
+GO:0061470	T follicular helper cell differentiation	biological_process
+GO:0061485	memory T cell proliferation	biological_process
+GO:0061515	myeloid cell development	biological_process
+GO:0061519	macrophage homeostasis	biological_process
+GO:0061520	Langerhans cell differentiation	biological_process
+GO:0061760	antifungal innate immune response	biological_process
+GO:0070235	regulation of activation-induced cell death of T cells	biological_process
+GO:0070236	negative regulation of activation-induced cell death of T cells	biological_process
+GO:0070237	positive regulation of activation-induced cell death of T cells	biological_process
+GO:0070238	activated T cell autonomous cell death	biological_process
+GO:0070239	regulation of activated T cell autonomous cell death	biological_process
+GO:0070240	negative regulation of activated T cell autonomous cell death	biological_process
+GO:0070241	positive regulation of activated T cell autonomous cell death	biological_process
+GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway	biological_process
+GO:0070424	regulation of nucleotide-binding oligomerization domain containing signaling pathway	biological_process
+GO:0070425	negative regulation of nucleotide-binding oligomerization domain containing signaling pathway	biological_process
+GO:0070426	positive regulation of nucleotide-binding oligomerization domain containing signaling pathway	biological_process
+GO:0070427	nucleotide-binding oligomerization domain containing 1 signaling pathway	biological_process
+GO:0070428	regulation of nucleotide-binding oligomerization domain containing 1 signaling pathway	biological_process
+GO:0070429	negative regulation of nucleotide-binding oligomerization domain containing 1 signaling pathway	biological_process
+GO:0070430	positive regulation of nucleotide-binding oligomerization domain containing 1 signaling pathway	biological_process
+GO:0070431	nucleotide-binding oligomerization domain containing 2 signaling pathway	biological_process
+GO:0070432	regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway	biological_process
+GO:0070433	negative regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway	biological_process
+GO:0070434	positive regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway	biological_process
+GO:0070489	T cell aggregation	biological_process
+GO:0070942	neutrophil mediated cytotoxicity	biological_process
+GO:0070943	neutrophil mediated killing of symbiont cell	biological_process
+GO:0070944	neutrophil mediated killing of bacterium	biological_process
+GO:0070945	neutrophil mediated killing of gram-negative bacterium	biological_process
+GO:0070946	neutrophil mediated killing of gram-positive bacterium	biological_process
+GO:0070947	neutrophil mediated killing of fungus	biological_process
+GO:0070948	regulation of neutrophil mediated cytotoxicity	biological_process
+GO:0070949	regulation of neutrophil mediated killing of symbiont cell	biological_process
+GO:0070950	regulation of neutrophil mediated killing of bacterium	biological_process
+GO:0070951	regulation of neutrophil mediated killing of gram-negative bacterium	biological_process
+GO:0070952	regulation of neutrophil mediated killing of gram-positive bacterium	biological_process
+GO:0070953	regulation of neutrophil mediated killing of fungus	biological_process
+GO:0070954	negative regulation of neutrophil mediated cytotoxicity	biological_process
+GO:0070955	negative regulation of neutrophil mediated killing of symbiont cell	biological_process
+GO:0070956	negative regulation of neutrophil mediated killing of bacterium	biological_process
+GO:0070957	negative regulation of neutrophil mediated killing of gram-negative bacterium	biological_process
+GO:0070958	negative regulation of neutrophil mediated killing of gram-positive bacterium	biological_process
+GO:0070959	negative regulation of neutrophil mediated killing of fungus	biological_process
+GO:0070960	positive regulation of neutrophil mediated cytotoxicity	biological_process
+GO:0070961	positive regulation of neutrophil mediated killing of symbiont cell	biological_process
+GO:0070962	positive regulation of neutrophil mediated killing of bacterium	biological_process
+GO:0070963	positive regulation of neutrophil mediated killing of gram-negative bacterium	biological_process
+GO:0070964	positive regulation of neutrophil mediated killing of gram-positive bacterium	biological_process
+GO:0070965	positive regulation of neutrophil mediated killing of fungus	biological_process
+GO:0071346	cellular response to interferon-gamma	biological_process
+GO:0071357	cellular response to type I interferon	biological_process
+GO:0071358	cellular response to type III interferon	biological_process
+GO:0071425	hematopoietic stem cell proliferation	biological_process
+GO:0071594	thymocyte aggregation	biological_process
+GO:0071613	granzyme B production	biological_process
+GO:0071621	granulocyte chemotaxis	biological_process
+GO:0071622	regulation of granulocyte chemotaxis	biological_process
+GO:0071623	negative regulation of granulocyte chemotaxis	biological_process
+GO:0071624	positive regulation of granulocyte chemotaxis	biological_process
+GO:0071661	regulation of granzyme B production	biological_process
+GO:0071662	negative regulation of granzyme B production	biological_process
+GO:0071663	positive regulation of granzyme B production	biological_process
+GO:0071674	mononuclear cell migration	biological_process
+GO:0071675	regulation of mononuclear cell migration	biological_process
+GO:0071676	negative regulation of mononuclear cell migration	biological_process
+GO:0071677	positive regulation of mononuclear cell migration	biological_process
+GO:0071707	immunoglobulin heavy chain V-D-J recombination	biological_process
+GO:0071708	immunoglobulin light chain V-J recombination	biological_process
+GO:0072113	head kidney development	biological_process
+GO:0072115	head kidney morphogenesis	biological_process
+GO:0072117	head kidney formation	biological_process
+GO:0072119	head kidney structural organization	biological_process
+GO:0072121	head kidney maturation	biological_process
+GO:0072538	T-helper 17 type immune response	biological_process
+GO:0072539	T-helper 17 cell differentiation	biological_process
+GO:0072540	T-helper 17 cell lineage commitment	biological_process
+GO:0072573	tolerance induction to lipopolysaccharide	biological_process
+GO:0072672	neutrophil extravasation	biological_process
+GO:0072674	multinuclear osteoclast differentiation	biological_process
+GO:0072675	osteoclast fusion	biological_process
+GO:0072676	lymphocyte migration	biological_process
+GO:0072677	eosinophil migration	biological_process
+GO:0072678	T cell migration	biological_process
+GO:0072679	thymocyte migration	biological_process
+GO:0072680	extracellular matrix-dependent thymocyte migration	biological_process
+GO:0072681	fibronectin-dependent thymocyte migration	biological_process
+GO:0072682	eosinophil extravasation	biological_process
+GO:0072683	T cell extravasation	biological_process
+GO:0075528	modulation by virus of host immune response	biological_process
+GO:0080185	effector dependent induction by symbiont of host immune response	biological_process
+GO:0090022	regulation of neutrophil chemotaxis	biological_process
+GO:0090023	positive regulation of neutrophil chemotaxis	biological_process
+GO:0090024	negative regulation of neutrophil chemotaxis	biological_process
+GO:0090025	regulation of monocyte chemotaxis	biological_process
+GO:0090026	positive regulation of monocyte chemotaxis	biological_process
+GO:0090027	negative regulation of monocyte chemotaxis	biological_process
+GO:0090264	regulation of immune complex clearance by monocytes and macrophages	biological_process
+GO:0090265	positive regulation of immune complex clearance by monocytes and macrophages	biological_process
+GO:0090323	prostaglandin secretion involved in immune response	biological_process
+GO:0090401	viral-induced premature senescence	biological_process
+GO:0090644	age-related resistance	biological_process
+GO:0090713	immunological memory process	biological_process
+GO:0090714	innate immunity memory response	biological_process
+GO:0090715	immunological memory formation process	biological_process
+GO:0090716	adaptive immune memory response	biological_process
+GO:0090717	adaptive immune memory response involving T cells and B cells	biological_process
+GO:0090718	adaptive immune effector response	biological_process
+GO:0090719	adaptive immune effector response involving T cells and B lineage cells	biological_process
+GO:0090720	primary adaptive immune response	biological_process
+GO:0090721	primary adaptive immune response involving T cells and B cells	biological_process
+GO:0097021	lymphocyte migration into lymphoid organs	biological_process
+GO:0097022	lymphocyte migration into lymph node	biological_process
+GO:0097028	dendritic cell differentiation	biological_process
+GO:0097029	mature conventional dendritic cell differentiation	biological_process
+GO:0097279	histamine secretion mediated by IgE immunoglobulin	biological_process
+GO:0097280	histamine secretion mediated by immunoglobulin	biological_process
+GO:0097281	immune complex formation	biological_process
+GO:0097282	immunoglobulin-mediated neutralization	biological_process
+GO:0097350	neutrophil clearance	biological_process
+GO:0097529	myeloid leukocyte migration	biological_process
+GO:0097530	granulocyte migration	biological_process
+GO:0097531	mast cell migration	biological_process
+GO:0097536	thymus epithelium morphogenesis	biological_process
+GO:1900098	regulation of plasma cell differentiation	biological_process
+GO:1900099	negative regulation of plasma cell differentiation	biological_process
+GO:1900100	positive regulation of plasma cell differentiation	biological_process
+GO:1900245	positive regulation of MDA-5 signaling pathway	biological_process
+GO:1900246	positive regulation of RIG-I signaling pathway	biological_process
+GO:1900279	regulation of CD4-positive, alpha-beta T cell costimulation	biological_process
+GO:1900280	negative regulation of CD4-positive, alpha-beta T cell costimulation	biological_process
+GO:1900281	positive regulation of CD4-positive, alpha-beta T cell costimulation	biological_process
+GO:1901039	regulation of peptide antigen transport	biological_process
+GO:1901040	negative regulation of peptide antigen transport	biological_process
+GO:1901041	positive regulation of peptide antigen transport	biological_process
+GO:1901245	positive regulation of toll-like receptor 9 signaling pathway by B cell receptor internalization	biological_process
+GO:1901532	regulation of hematopoietic progenitor cell differentiation	biological_process
+GO:1901533	negative regulation of hematopoietic progenitor cell differentiation	biological_process
+GO:1901534	positive regulation of hematopoietic progenitor cell differentiation	biological_process
+GO:1901623	regulation of lymphocyte chemotaxis	biological_process
+GO:1901624	negative regulation of lymphocyte chemotaxis	biological_process
+GO:1901672	positive regulation of systemic acquired resistance	biological_process
+GO:1902033	regulation of hematopoietic stem cell proliferation	biological_process
+GO:1902034	negative regulation of hematopoietic stem cell proliferation	biological_process
+GO:1902035	positive regulation of hematopoietic stem cell proliferation	biological_process
+GO:1902036	regulation of hematopoietic stem cell differentiation	biological_process
+GO:1902037	negative regulation of hematopoietic stem cell differentiation	biological_process
+GO:1902038	positive regulation of hematopoietic stem cell differentiation	biological_process
+GO:1902105	regulation of leukocyte differentiation	biological_process
+GO:1902106	negative regulation of leukocyte differentiation	biological_process
+GO:1902107	positive regulation of leukocyte differentiation	biological_process
+GO:1902232	regulation of positive thymic T cell selection	biological_process
+GO:1902233	negative regulation of positive thymic T cell selection	biological_process
+GO:1902234	positive regulation of positive thymic T cell selection	biological_process
+GO:1902477	regulation of defense response to bacterium, incompatible interaction	biological_process
+GO:1902478	negative regulation of defense response to bacterium, incompatible interaction	biological_process
+GO:1902479	positive regulation of defense response to bacterium, incompatible interaction	biological_process
+GO:1902550	lymphoid lineage cell migration into thymus involved in thymus epithelium morphogenesis	biological_process
+GO:1902563	regulation of neutrophil activation	biological_process
+GO:1902564	negative regulation of neutrophil activation	biological_process
+GO:1902565	positive regulation of neutrophil activation	biological_process
+GO:1902566	regulation of eosinophil activation	biological_process
+GO:1902567	negative regulation of eosinophil activation	biological_process
+GO:1902568	positive regulation of eosinophil activation	biological_process
+GO:1902615	immune response involved in response to exogenous dsRNA	biological_process
+GO:1902622	regulation of neutrophil migration	biological_process
+GO:1902623	negative regulation of neutrophil migration	biological_process
+GO:1902624	positive regulation of neutrophil migration	biological_process
+GO:1902637	neural crest cell differentiation involved in thymus development	biological_process
+GO:1903027	regulation of opsonization	biological_process
+GO:1903028	positive regulation of opsonization	biological_process
+GO:1903131	mononuclear cell differentiation	biological_process
+GO:1903236	regulation of leukocyte tethering or rolling	biological_process
+GO:1903237	negative regulation of leukocyte tethering or rolling	biological_process
+GO:1903238	positive regulation of leukocyte tethering or rolling	biological_process
+GO:1903581	regulation of basophil degranulation	biological_process
+GO:1903582	negative regulation of basophil degranulation	biological_process
+GO:1903583	positive regulation of basophil degranulation	biological_process
+GO:1903593	regulation of histamine secretion by mast cell	biological_process
+GO:1903594	negative regulation of histamine secretion by mast cell	biological_process
+GO:1903595	positive regulation of histamine secretion by mast cell	biological_process
+GO:1903706	regulation of hemopoiesis	biological_process
+GO:1903707	negative regulation of hemopoiesis	biological_process
+GO:1903708	positive regulation of hemopoiesis	biological_process
+GO:1903903	regulation of establishment of T cell polarity	biological_process
+GO:1903904	negative regulation of establishment of T cell polarity	biological_process
+GO:1903905	positive regulation of establishment of T cell polarity	biological_process
+GO:1903978	regulation of microglial cell activation	biological_process
+GO:1903979	negative regulation of microglial cell activation	biological_process
+GO:1903980	positive regulation of microglial cell activation	biological_process
+GO:1904124	microglial cell migration	biological_process
+GO:1904139	regulation of microglial cell migration	biological_process
+GO:1904140	negative regulation of microglial cell migration	biological_process
+GO:1904141	positive regulation of microglial cell migration	biological_process
+GO:1904155	DN2 thymocyte differentiation	biological_process
+GO:1904156	DN3 thymocyte differentiation	biological_process
+GO:1904157	DN4 thymocyte differentiation	biological_process
+GO:1904248	regulation of age-related resistance	biological_process
+GO:1904249	negative regulation of age-related resistance	biological_process
+GO:1904250	positive regulation of age-related resistance	biological_process
+GO:1904282	regulation of antigen processing and presentation of endogenous peptide antigen via MHC class I	biological_process
+GO:1904283	negative regulation of antigen processing and presentation of endogenous peptide antigen via MHC class I	biological_process
+GO:1904284	positive regulation of antigen processing and presentation of endogenous peptide antigen via MHC class I	biological_process
+GO:1905034	regulation of antifungal innate immune response	biological_process
+GO:1905035	negative regulation of antifungal innate immune response	biological_process
+GO:1905036	positive regulation of antifungal innate immune response	biological_process
+GO:1905219	regulation of platelet formation	biological_process
+GO:1905220	negative regulation of platelet formation	biological_process
+GO:1905221	positive regulation of platelet formation	biological_process
+GO:1905449	regulation of Fc-gamma receptor signaling pathway involved in phagocytosis	biological_process
+GO:1905450	negative regulation of Fc-gamma receptor signaling pathway involved in phagocytosis	biological_process
+GO:1905451	positive regulation of Fc-gamma receptor signaling pathway involved in phagocytosis	biological_process
+GO:1905453	regulation of myeloid progenitor cell differentiation	biological_process
+GO:1905454	negative regulation of myeloid progenitor cell differentiation	biological_process
+GO:1905455	positive regulation of myeloid progenitor cell differentiation	biological_process
+GO:1905456	regulation of lymphoid progenitor cell differentiation	biological_process
+GO:1905457	negative regulation of lymphoid progenitor cell differentiation	biological_process
+GO:1905458	positive regulation of lymphoid progenitor cell differentiation	biological_process
+GO:1905517	macrophage migration	biological_process
+GO:1905521	regulation of macrophage migration	biological_process
+GO:1905522	negative regulation of macrophage migration	biological_process
+GO:1905523	positive regulation of macrophage migration	biological_process
+GO:1905674	regulation of adaptive immune memory response	biological_process
+GO:1905675	negative regulation of adaptive immune memory response	biological_process
+GO:1905676	positive regulation of adaptive immune memory response	biological_process
+GO:1905677	regulation of adaptive immune effector response	biological_process
+GO:1905678	negative regulation of adaptive immune effector response	biological_process
+GO:1905679	positive regulation of adaptive immune effector response	biological_process
+GO:1905680	regulation of innate immunity memory response	biological_process
+GO:1905681	negative regulation of innate immunity memory response	biological_process
+GO:1905682	positive regulation of innate immunity memory response	biological_process
+GO:1990117	B cell receptor apoptotic signaling pathway	biological_process
+GO:1990217	negative regulation by symbiont of host phytoalexin production	biological_process
+GO:1990266	neutrophil migration	biological_process
+GO:1990959	eosinophil homeostasis	biological_process
+GO:1990960	basophil homeostasis	biological_process
+GO:2000072	regulation of defense response to fungus, incompatible interaction	biological_process
+GO:2000174	regulation of pro-T cell differentiation	biological_process
+GO:2000175	negative regulation of pro-T cell differentiation	biological_process
+GO:2000176	positive regulation of pro-T cell differentiation	biological_process
+GO:2000316	regulation of T-helper 17 type immune response	biological_process
+GO:2000317	negative regulation of T-helper 17 type immune response	biological_process
+GO:2000318	positive regulation of T-helper 17 type immune response	biological_process
+GO:2000319	regulation of T-helper 17 cell differentiation	biological_process
+GO:2000320	negative regulation of T-helper 17 cell differentiation	biological_process
+GO:2000321	positive regulation of T-helper 17 cell differentiation	biological_process
+GO:2000328	regulation of T-helper 17 cell lineage commitment	biological_process
+GO:2000329	negative regulation of T-helper 17 cell lineage commitment	biological_process
+GO:2000330	positive regulation of T-helper 17 cell lineage commitment	biological_process
+GO:2000389	regulation of neutrophil extravasation	biological_process
+GO:2000390	negative regulation of neutrophil extravasation	biological_process
+GO:2000391	positive regulation of neutrophil extravasation	biological_process
+GO:2000398	regulation of thymocyte aggregation	biological_process
+GO:2000399	negative regulation of thymocyte aggregation	biological_process
+GO:2000400	positive regulation of thymocyte aggregation	biological_process
+GO:2000401	regulation of lymphocyte migration	biological_process
+GO:2000402	negative regulation of lymphocyte migration	biological_process
+GO:2000403	positive regulation of lymphocyte migration	biological_process
+GO:2000404	regulation of T cell migration	biological_process
+GO:2000405	negative regulation of T cell migration	biological_process
+GO:2000406	positive regulation of T cell migration	biological_process
+GO:2000407	regulation of T cell extravasation	biological_process
+GO:2000408	negative regulation of T cell extravasation	biological_process
+GO:2000409	positive regulation of T cell extravasation	biological_process
+GO:2000410	regulation of thymocyte migration	biological_process
+GO:2000411	negative regulation of thymocyte migration	biological_process
+GO:2000412	positive regulation of thymocyte migration	biological_process
+GO:2000413	regulation of fibronectin-dependent thymocyte migration	biological_process
+GO:2000414	negative regulation of fibronectin-dependent thymocyte migration	biological_process
+GO:2000415	positive regulation of fibronectin-dependent thymocyte migration	biological_process
+GO:2000416	regulation of eosinophil migration	biological_process
+GO:2000417	negative regulation of eosinophil migration	biological_process
+GO:2000418	positive regulation of eosinophil migration	biological_process
+GO:2000419	regulation of eosinophil extravasation	biological_process
+GO:2000420	negative regulation of eosinophil extravasation	biological_process
+GO:2000421	positive regulation of eosinophil extravasation	biological_process
+GO:2000422	regulation of eosinophil chemotaxis	biological_process
+GO:2000423	negative regulation of eosinophil chemotaxis	biological_process
+GO:2000424	positive regulation of eosinophil chemotaxis	biological_process
+GO:2000437	regulation of monocyte extravasation	biological_process
+GO:2000438	negative regulation of monocyte extravasation	biological_process
+GO:2000439	positive regulation of monocyte extravasation	biological_process
+GO:2000440	regulation of toll-like receptor 15 signaling pathway	biological_process
+GO:2000441	negative regulation of toll-like receptor 15 signaling pathway	biological_process
+GO:2000442	positive regulation of toll-like receptor 15 signaling pathway	biological_process
+GO:2000443	regulation of toll-like receptor 21 signaling pathway	biological_process
+GO:2000444	negative regulation of toll-like receptor 21 signaling pathway	biological_process
+GO:2000445	positive regulation of toll-like receptor 21 signaling pathway	biological_process
+GO:2000449	regulation of CD8-positive, alpha-beta T cell extravasation	biological_process
+GO:2000450	negative regulation of CD8-positive, alpha-beta T cell extravasation	biological_process
+GO:2000451	positive regulation of CD8-positive, alpha-beta T cell extravasation	biological_process
+GO:2000452	regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation	biological_process
+GO:2000453	negative regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation	biological_process
+GO:2000454	positive regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation	biological_process
+GO:2000455	regulation of T-helper 17 cell extravasation	biological_process
+GO:2000456	negative regulation of T-helper 17 cell extravasation	biological_process
+GO:2000457	positive regulation of T-helper 17 cell extravasation	biological_process
+GO:2000501	regulation of natural killer cell chemotaxis	biological_process
+GO:2000502	negative regulation of natural killer cell chemotaxis	biological_process
+GO:2000503	positive regulation of natural killer cell chemotaxis	biological_process
+GO:2000508	regulation of dendritic cell chemotaxis	biological_process
+GO:2000509	negative regulation of dendritic cell chemotaxis	biological_process
+GO:2000510	positive regulation of dendritic cell chemotaxis	biological_process
+GO:2000511	regulation of granzyme A production	biological_process
+GO:2000512	negative regulation of granzyme A production	biological_process
+GO:2000513	positive regulation of granzyme A production	biological_process
+GO:2000514	regulation of CD4-positive, alpha-beta T cell activation	biological_process
+GO:2000515	negative regulation of CD4-positive, alpha-beta T cell activation	biological_process
+GO:2000516	positive regulation of CD4-positive, alpha-beta T cell activation	biological_process
+GO:2000517	regulation of T-helper 1 cell activation	biological_process
+GO:2000518	negative regulation of T-helper 1 cell activation	biological_process
+GO:2000519	positive regulation of T-helper 1 cell activation	biological_process
+GO:2000520	regulation of immunological synapse formation	biological_process
+GO:2000521	negative regulation of immunological synapse formation	biological_process
+GO:2000522	positive regulation of immunological synapse formation	biological_process
+GO:2000523	regulation of T cell costimulation	biological_process
+GO:2000524	negative regulation of T cell costimulation	biological_process
+GO:2000525	positive regulation of T cell costimulation	biological_process
+GO:2000526	positive regulation of glycoprotein biosynthetic process involved in immunological synapse formation	biological_process
+GO:2000527	regulation of myeloid dendritic cell chemotaxis	biological_process
+GO:2000528	negative regulation of myeloid dendritic cell chemotaxis	biological_process
+GO:2000529	positive regulation of myeloid dendritic cell chemotaxis	biological_process
+GO:2000537	regulation of B cell chemotaxis	biological_process
+GO:2000538	positive regulation of B cell chemotaxis	biological_process
+GO:2000550	negative regulation of B cell chemotaxis	biological_process
+GO:2000551	regulation of T-helper 2 cell cytokine production	biological_process
+GO:2000552	negative regulation of T-helper 2 cell cytokine production	biological_process
+GO:2000553	positive regulation of T-helper 2 cell cytokine production	biological_process
+GO:2000554	regulation of T-helper 1 cell cytokine production	biological_process
+GO:2000555	negative regulation of T-helper 1 cell cytokine production	biological_process
+GO:2000556	positive regulation of T-helper 1 cell cytokine production	biological_process
+GO:2000557	regulation of immunoglobulin production in mucosal tissue	biological_process
+GO:2000558	positive regulation of immunoglobulin production in mucosal tissue	biological_process
+GO:2000561	regulation of CD4-positive, alpha-beta T cell proliferation	biological_process
+GO:2000562	negative regulation of CD4-positive, alpha-beta T cell proliferation	biological_process
+GO:2000563	positive regulation of CD4-positive, alpha-beta T cell proliferation	biological_process
+GO:2000564	regulation of CD8-positive, alpha-beta T cell proliferation	biological_process
+GO:2000565	negative regulation of CD8-positive, alpha-beta T cell proliferation	biological_process
+GO:2000566	positive regulation of CD8-positive, alpha-beta T cell proliferation	biological_process
+GO:2000567	regulation of memory T cell activation	biological_process
+GO:2000568	positive regulation of memory T cell activation	biological_process
+GO:2000569	regulation of T-helper 2 cell activation	biological_process
+GO:2000570	positive regulation of T-helper 2 cell activation	biological_process
+GO:2000571	regulation of interleukin-4-dependent isotype switching to IgE isotypes	biological_process
+GO:2000572	positive regulation of interleukin-4-dependent isotype switching to IgE isotypes	biological_process
+GO:2000973	regulation of pro-B cell differentiation	biological_process
+GO:2000974	negative regulation of pro-B cell differentiation	biological_process
+GO:2000975	positive regulation of pro-B cell differentiation	biological_process
+GO:2001185	regulation of CD8-positive, alpha-beta T cell activation	biological_process
+GO:2001186	negative regulation of CD8-positive, alpha-beta T cell activation	biological_process
+GO:2001187	positive regulation of CD8-positive, alpha-beta T cell activation	biological_process
+GO:2001188	regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	biological_process
+GO:2001189	negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	biological_process
+GO:2001190	positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	biological_process
+GO:2001191	regulation of gamma-delta T cell activation involved in immune response	biological_process
+GO:2001192	negative regulation of gamma-delta T cell activation involved in immune response	biological_process
+GO:2001193	positive regulation of gamma-delta T cell activation involved in immune response	biological_process
+GO:2001198	regulation of dendritic cell differentiation	biological_process
+GO:2001199	negative regulation of dendritic cell differentiation	biological_process
+GO:2001200	positive regulation of dendritic cell differentiation	biological_process
+GO:2001204	regulation of osteoclast development	biological_process
+GO:2001205	negative regulation of osteoclast development	biological_process
+GO:2001206	positive regulation of osteoclast development	biological_process

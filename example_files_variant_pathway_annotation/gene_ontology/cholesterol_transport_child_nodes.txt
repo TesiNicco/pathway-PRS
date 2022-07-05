@@ -1,0 +1,18 @@
+10499	sterol transport	biological_process	GO:0015918	0	0	0	1	10499
+5829	lipid transport	biological_process	GO:0006869	0	0	0	2	5829
+10433	organic hydroxy compound transport	biological_process	GO:0015850	0	0	0	2	10433
+23458	single-organism transport	biological_process	GO:0044765	0	0	0	3	23458
+33577	organic substance transport	biological_process	GO:0071702	0	0	0	3	33577
+5768	transport	biological_process	GO:0006810	0	0	0	4	5768
+40612	single-organism localization	biological_process	GO:1902578	0	0	0	4	40612
+28346	establishment of localization	biological_process	GO:0051234	0	0	0	5	28346
+28308	localization	biological_process	GO:0051179	0	0	0	6	28308
+6679	biological_process	biological_process	GO:0008150	0	0	0	7	6679
+46032	all	universal	all	0	1	0	8	46032
+23393	single-organism process	biological_process	GO:0044699	0	0	0	5	23393
+9297	lipid localization	biological_process	GO:0010876	0	0	0	3	9297
+16978	macromolecule localization	biological_process	GO:0033036	0	0	0	4	16978
+14416	cholesterol transport	biological_process	GO:0030301	0	0	0	0	14416
+28308	localization	biological_process	GO:0051179	0	0	0	5	28308
+6679	biological_process	biological_process	GO:0008150	0	0	0	6	6679
+46032	all	universal	all	0	1	0	7	46032
